@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "⛔ Avoid using apps that won't let you export your keys easily.\n✅ Instead use\nBack to top 🔝",
+      "description": "⛔ Avoid using apps that won't let you export your keys easily.\n✅ Instead use",
       "items": [
         {
           "node_type": "item",
@@ -12,7 +12,7 @@
             "archived": false,
             "id": 144771489,
             "language": "C#",
-            "last_commit": "2026-08-23T12:05:10Z",
+            "last_commit": "2026-08-24T12:07:54Z",
             "owner": "stratumauth",
             "repo": "app",
             "stars": 4556
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-24T05:25:46Z",
                 "owner": "ImranR98",
                 "repo": "Obtainium",
-                "stars": 19204
+                "stars": 19211
               }
             },
             {
@@ -118,7 +118,7 @@
                     "last_commit": "2026-08-24T00:45:55Z",
                     "owner": "Droid-ify",
                     "repo": "client",
-                    "stars": 7303
+                    "stars": 7305
                   }
                 },
                 {
@@ -147,6 +147,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Universal Android Debloater Next Generation",
+              "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710425233,
+                "language": "Rust",
+                "last_commit": "2026-08-21T15:28:42Z",
+                "owner": "Universal-Debloater-Alliance",
+                "repo": "universal-android-debloater-next-generation",
+                "stars": 8878
+              }
+            }
+          ],
+          "description": "⛔ Avoid\n✅ Instead use",
+          "node_type": "group",
+          "title": "Android Debloat Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Fossify Phone",
               "description": "A handy phone call manager with phonebook, number blocking and multi-SIM support.",
               "children": [],
@@ -154,7 +176,7 @@
                 "archived": false,
                 "id": 499759123,
                 "language": "Kotlin",
-                "last_commit": "2026-08-17T12:25:02Z",
+                "last_commit": "2026-08-24T12:24:29Z",
                 "owner": "FossifyOrg",
                 "repo": "Phone",
                 "stars": 1308
@@ -172,7 +194,7 @@
                 "last_commit": "2024-12-27T23:08:03Z",
                 "owner": "Chooloo",
                 "repo": "koler",
-                "stars": 1066
+                "stars": 1067
               }
             }
           ],
@@ -194,7 +216,7 @@
                 "last_commit": "2026-04-06T02:43:10Z",
                 "owner": "zhanghai",
                 "repo": "MaterialFiles",
-                "stars": 8799
+                "stars": 8800
               }
             },
             {
@@ -209,7 +231,7 @@
                 "last_commit": "2026-08-20T20:39:22Z",
                 "owner": "TeamAmaze",
                 "repo": "AmazeFileManager",
-                "stars": 6348
+                "stars": 6347
               }
             },
             {
@@ -221,7 +243,7 @@
                 "archived": false,
                 "id": 496918131,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T06:21:07Z",
+                "last_commit": "2026-08-24T13:05:45Z",
                 "owner": "FossifyOrg",
                 "repo": "File-Manager",
                 "stars": 1724
@@ -261,7 +283,7 @@
                 "last_commit": "2026-08-10T17:52:42Z",
                 "owner": "HeliBorg",
                 "repo": "HeliBoard",
-                "stars": 5920
+                "stars": 5921
               }
             },
             {
@@ -313,7 +335,7 @@
                 "last_commit": "2026-08-08T22:56:02Z",
                 "owner": "deckerst",
                 "repo": "aves",
-                "stars": 5134
+                "stars": 5137
               }
             },
             {
@@ -328,7 +350,7 @@
                 "last_commit": "2026-08-17T04:09:59Z",
                 "owner": "FossifyOrg",
                 "repo": "Gallery",
-                "stars": 3632
+                "stars": 3633
               }
             }
           ],
@@ -384,7 +406,7 @@
               }
             }
           ],
-          "description": "⛔ Avoid\nThird-party launchers found on the play store. They may contain ads/trackers and may ask for unnecessary permissions.\n✅ Instead use\nBack to top 🔝",
+          "description": "⛔ Avoid\nThird-party launchers found on the play store. They may contain ads/trackers and may ask for unnecessary permissions.\n✅ Instead use",
           "node_type": "group",
           "title": "Android Launcher"
         }
@@ -408,7 +430,7 @@
                 "last_commit": "2026-08-23T18:40:59Z",
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 179304
+                "stars": 179315
               }
             },
             {
@@ -420,10 +442,10 @@
                 "archived": false,
                 "id": 612354784,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:07:13Z",
+                "last_commit": "2026-08-24T13:41:49Z",
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 125358
+                "stars": 125396
               }
             },
             {
@@ -435,10 +457,10 @@
                 "archived": false,
                 "id": 615869301,
                 "language": "Go",
-                "last_commit": "2026-08-24T08:07:50Z",
+                "last_commit": "2026-08-24T13:18:40Z",
                 "owner": "mudler",
                 "repo": "LocalAI",
-                "stars": 48647
+                "stars": 48653
               }
             },
             {
@@ -450,10 +472,10 @@
                 "archived": false,
                 "id": 679506386,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:23:08Z",
+                "last_commit": "2026-08-24T13:08:18Z",
                 "owner": "janhq",
                 "repo": "jan",
-                "stars": 44123
+                "stars": 44128
               }
             },
             {
@@ -480,7 +502,7 @@
                 "archived": false,
                 "id": 1130305975,
                 "language": "TypeScript",
-                "last_commit": "2026-07-31T08:51:05Z",
+                "last_commit": "2026-08-24T12:34:23Z",
                 "owner": "sgasser",
                 "repo": "pasteguard",
                 "stars": 738
@@ -502,10 +524,10 @@
                 "archived": false,
                 "id": 975734319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:22:01Z",
+                "last_commit": "2026-08-24T13:42:29Z",
                 "owner": "anomalyco",
                 "repo": "opencode",
-                "stars": 200805
+                "stars": 200885
               }
             },
             {
@@ -517,10 +539,10 @@
                 "archived": false,
                 "id": 644686905,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:02:38Z",
+                "last_commit": "2026-08-24T09:25:36Z",
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 35606
+                "stars": 35609
               }
             },
             {
@@ -537,10 +559,10 @@
                     "archived": false,
                     "id": 1219468224,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T06:55:42Z",
+                    "last_commit": "2026-08-24T13:18:30Z",
                     "owner": "Zoo-Code-Org",
                     "repo": "Zoo-Code",
-                    "stars": 1713
+                    "stars": 1716
                   }
                 }
               ]
@@ -564,7 +586,7 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26125
+                "stars": 26128
               }
             },
             {
@@ -606,7 +628,7 @@
                 "archived": false,
                 "id": 910061041,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:56:42Z",
+                "last_commit": "2026-08-24T08:26:57Z",
                 "owner": "remsky",
                 "repo": "Kokoro-FastAPI",
                 "stars": 5369
@@ -624,7 +646,7 @@
                 "last_commit": "2026-08-22T07:10:02Z",
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5252
+                "stars": 5258
               }
             }
           ],
@@ -653,10 +675,10 @@
                         "archived": false,
                         "id": 541269386,
                         "language": "C++",
-                        "last_commit": "2026-08-24T06:02:31Z",
+                        "last_commit": "2026-08-24T10:36:17Z",
                         "owner": "ggml-org",
                         "repo": "whisper.cpp",
-                        "stars": 53127
+                        "stars": 53135
                       }
                     },
                     {
@@ -671,7 +693,7 @@
                         "last_commit": "2025-11-19T14:40:46Z",
                         "owner": "SYSTRAN",
                         "repo": "faster-whisper",
-                        "stars": 25056
+                        "stars": 25061
                       }
                     }
                   ],
@@ -682,7 +704,7 @@
                     "last_commit": "2026-07-28T20:18:29Z",
                     "owner": "openai",
                     "repo": "whisper",
-                    "stars": 107851
+                    "stars": 107861
                   }
                 },
                 {
@@ -697,7 +719,7 @@
                     "last_commit": "2026-08-24T05:05:21Z",
                     "owner": "moonshine-ai",
                     "repo": "moonshine",
-                    "stars": 10928
+                    "stars": 10931
                   }
                 }
               ]
@@ -719,7 +741,7 @@
                     "last_commit": "2026-08-23T14:57:23Z",
                     "owner": "OpenWhispr",
                     "repo": "openwhispr",
-                    "stars": 5685
+                    "stars": 5690
                   }
                 },
                 {
@@ -734,7 +756,7 @@
                     "last_commit": "2026-08-20T18:40:25Z",
                     "owner": "speaches-ai",
                     "repo": "speaches",
-                    "stars": 3609
+                    "stars": 3610
                   }
                 },
                 {
@@ -773,7 +795,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164631
+                "stars": 164632
               }
             },
             {
@@ -785,10 +807,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:07:46Z",
+                "last_commit": "2026-08-24T10:03:19Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 129619
+                "stars": 129713
               }
             },
             {
@@ -803,7 +825,7 @@
                 "last_commit": "2026-08-22T23:25:08Z",
                 "owner": "invoke-ai",
                 "repo": "InvokeAI",
-                "stars": 27950
+                "stars": 27962
               }
             },
             {
@@ -822,7 +844,7 @@
               }
             }
           ],
-          "description": "Back to top 🔝",
+          "description": null,
           "node_type": "group",
           "title": "Image Generation"
         }
@@ -859,7 +881,7 @@
             "last_commit": "2026-08-18T21:08:57Z",
             "owner": "sissbruecker",
             "repo": "linkding",
-            "stars": 11096
+            "stars": 11097
           }
         },
         {
@@ -886,7 +908,7 @@
             "archived": false,
             "id": 657204276,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:13:38Z",
+            "last_commit": "2026-08-24T09:37:26Z",
             "owner": "goniszewski",
             "repo": "grimoire",
             "stars": 2839
@@ -925,7 +947,7 @@
               }
             }
           ],
-          "description": "Back to top 🔝",
+          "description": null,
           "node_type": "group",
           "title": "Book and web annotations/highlights management"
         }
@@ -933,7 +955,7 @@
       "title": "Bookmarking"
     },
     {
-      "description": "⛔ Avoid\nGoogle captchas use cookies to track users and rank their IPs.\n✅ Instead use\nBack to top 🔝",
+      "description": "⛔ Avoid\nGoogle captchas use cookies to track users and rank their IPs.\n✅ Instead use",
       "items": [
         {
           "node_type": "item",
@@ -959,7 +981,7 @@
             "archived": false,
             "id": 735001425,
             "language": "Go",
-            "last_commit": "2026-08-24T08:04:35Z",
+            "last_commit": "2026-08-24T13:05:36Z",
             "owner": "PrivateCaptcha",
             "repo": "PrivateCaptcha",
             "stars": 187
@@ -969,7 +991,7 @@
       "title": "Captchas"
     },
     {
-      "description": "⛔ Avoid\n✅ Instead use\nBack to top 🔝",
+      "description": "⛔ Avoid\n✅ Instead use",
       "items": [
         {
           "node_type": "item",
@@ -983,7 +1005,7 @@
             "last_commit": "2026-08-23T01:37:56Z",
             "owner": "Etar-Group",
             "repo": "Etar-Calendar",
-            "stars": 2588
+            "stars": 2587
           }
         },
         {
@@ -998,7 +1020,7 @@
             "last_commit": "2026-08-17T18:55:35Z",
             "owner": "FossifyOrg",
             "repo": "Calendar",
-            "stars": 2114
+            "stars": 2116
           }
         },
         {
@@ -1020,7 +1042,7 @@
       "title": "Calendar"
     },
     {
-      "description": "⛔ Avoid\n✅ Instead use\nBack to top 🔝",
+      "description": "⛔ Avoid\n✅ Instead use",
       "items": [
         {
           "node_type": "item",
@@ -1103,7 +1125,7 @@
                 "last_commit": "2023-08-02T16:26:04Z",
                 "owner": "Shawn-Shan",
                 "repo": "fawkes",
-                "stars": 5592
+                "stars": 5593
               }
             },
             {
@@ -1125,12 +1147,34 @@
           "description": null,
           "node_type": "group",
           "title": "Images"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stegcloak",
+              "description": "Hide secrets with invisible characters in plain text securely using passwords (repo).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259692009,
+                "language": "JavaScript",
+                "last_commit": "2024-10-01T20:19:13Z",
+                "owner": "KuroLabs",
+                "repo": "stegcloak",
+                "stars": 3868
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text"
         }
       ],
       "title": "Cloaking"
     },
     {
-      "description": "⛔ Avoid using privative databases which you don't control such as Google Firebase.\n✅ Instead use\nBack to top 🔝",
+      "description": "⛔ Avoid using privative databases which you don't control such as Google Firebase.\n✅ Instead use",
       "items": [
         {
           "node_type": "item",
@@ -1141,10 +1185,10 @@
             "archived": false,
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:20:08Z",
+            "last_commit": "2026-08-24T13:47:38Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108333
+            "stars": 108345
           }
         },
         {
@@ -1166,7 +1210,7 @@
       "title": "Databases"
     },
     {
-      "description": "Back to top 🔝",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1177,10 +1221,10 @@
             "archived": false,
             "id": 162279822,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T17:18:45Z",
+            "last_commit": "2026-08-24T12:29:24Z",
             "owner": "agalwood",
             "repo": "Motrix",
-            "stars": 54430
+            "stars": 54448
           }
         },
         {
@@ -1268,7 +1312,7 @@
       "title": "Encryption"
     },
     {
-      "description": "⛔ Avoid\n✅ Instead use\nBack to top 🔝",
+      "description": "⛔ Avoid\n✅ Instead use",
       "items": [
         {
           "node_type": "item",
@@ -1279,10 +1323,10 @@
             "archived": false,
             "id": 458648791,
             "language": "Python",
-            "last_commit": "2026-08-24T08:23:30Z",
+            "last_commit": "2026-08-24T13:46:22Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44551
+            "stars": 44559
           }
         },
         {
@@ -1294,10 +1338,10 @@
             "archived": false,
             "id": 107286889,
             "language": "Go",
-            "last_commit": "2026-08-23T15:01:18Z",
+            "last_commit": "2026-08-24T13:49:28Z",
             "owner": "schollz",
             "repo": "croc",
-            "stars": 40070
+            "stars": 40071
           }
         },
         {
@@ -1312,7 +1356,7 @@
             "last_commit": "2026-08-20T20:37:04Z",
             "owner": "magic-wormhole",
             "repo": "magic-wormhole",
-            "stars": 22869
+            "stars": 22868
           }
         },
         {
@@ -1342,7 +1386,7 @@
             "last_commit": "2026-04-22T20:27:50Z",
             "owner": "schlagmichdoch",
             "repo": "PairDrop",
-            "stars": 11228
+            "stars": 11230
           }
         },
         {
@@ -1387,7 +1431,7 @@
             "last_commit": "2026-08-24T04:28:36Z",
             "owner": "jhaals",
             "repo": "yopass",
-            "stars": 3081
+            "stars": 3083
           }
         },
         {
@@ -1469,6 +1513,56 @@
       "title": "File Management and Sharing"
     },
     {
+      "description": "⛔ Your health is a very important piece of your private data and you should care a lot about it. Also, health related data is among the most coveted. Please don't use apps from Google, Fitbit, Huawei, Xiaomi or any company that seeks the gathering of your personal data.\nIf you need an app for menstrual cycle tracking please don't use any apps like Clue, Period Tracker, etc. Those cute pink apps are greedy for your menstrual cycle and intimate life data and will sell it for sure, protect your private life. Check the list below and you will find nice alternatives.\n✅ Instead use",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "workout.lol",
+              "description": "A small web application to create workouts based on your available equipment and the muscles you want to train that you can selfhost.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648503124,
+                "language": "JavaScript",
+                "last_commit": "2024-09-27T16:00:25Z",
+                "owner": "workout-lol",
+                "repo": "workout-lol",
+                "stars": 1564
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workout planners"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fasten",
+              "description": "Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 527781321,
+                "language": "Go",
+                "last_commit": "2026-02-13T03:26:58Z",
+                "owner": "fastenhealth",
+                "repo": "fasten-onprem",
+                "stars": 2793
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Medical health"
+        }
+      ],
+      "title": "Fitness and Health"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -1529,9 +1623,138 @@
           "description": "The game is owned by Microsoft. If this is not enough, you need a Microsoft account to play Minecraft since March 11th, 2022. Microsoft locks accounts some time not long after account creation and forces the user to provide a phone number. See: Minecraft FAQ, 1, 2\nThe game has telemetry embeded in it since v21w38a which you can't opt-out. Also, it is tied to the Microsoft privacy terms which are a privacy nightmare.\n✅ Instead use",
           "node_type": "group",
           "title": "Minecraft"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pokete",
+              "description": "A small terminal based game in the style of a very popular and old game by Gamefreak.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331361562,
+                "language": "Python",
+                "last_commit": "2026-05-22T17:58:25Z",
+                "owner": "lxgr-linux",
+                "repo": "pokete",
+                "stars": 3148
+              }
+            }
+          ],
+          "description": "Nintendo collects user data, and if you disable it, they can turn it back on. Also, it has a paid plan that is not accessible to everyone economically.\n✅ Instead use",
+          "node_type": "group",
+          "title": "Pokemon"
         }
       ],
       "title": "Games"
+    },
+    {
+      "description": "*Check out this site for comparisons.\n⛔ Avoid\n✅ Instead use",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Signal",
+              "description": "Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🤖",
+                  "description": "Molly - Signal-compatible fork client with some security enhancements.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 230609507,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-22T00:17:27Z",
+                    "owner": "mollyim",
+                    "repo": "mollyim-android",
+                    "stars": 3661
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "The service is in charge of running the servers that allow users to communicate. Single point of failure and control, but still 100% safe and trustworthy if the protocols and code are open and audited.",
+          "node_type": "group",
+          "title": "Centralized"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tinfoil Chat",
+              "description": "Onion-routed, endpoint secure messaging system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50497794,
+                "language": "Python",
+                "last_commit": "2026-07-21T12:27:51Z",
+                "owner": "maqp",
+                "repo": "tfc",
+                "stars": 1319
+              }
+            }
+          ],
+          "description": "No servers involved. Everything goes directly from one peer to the other peer. No point of failure or control. The features are reduced because of the lack of server, messaging can be slower. Best option for critical chats.",
+          "node_type": "group",
+          "title": "P2P"
+        }
+      ],
+      "title": "Instant Messaging"
+    },
+    {
+      "description": "⛔ Avoid\n✅ Instead use",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dawarich",
+              "description": "Self-hosted alternative to Google Location History.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776916297,
+                "language": "Ruby",
+                "last_commit": "2026-08-23T22:11:43Z",
+                "owner": "Freika",
+                "repo": "dawarich",
+                "stars": 10175
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tracking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GPSlogger",
+              "description": "Lightweight GPS Logging Application For Android. No servers, no internet. Saved to a simple file to local storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1925457,
+                "language": "Java",
+                "last_commit": "2026-08-14T08:21:46Z",
+                "owner": "mendhak",
+                "repo": "gpslogger",
+                "stars": 2595
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Find My Device"
+        }
+      ],
+      "title": "Location tracking"
     },
     {
       "description": "⛔ Avoid\n✅ Instead use",
@@ -1547,10 +1770,10 @@
                 "archived": false,
                 "id": 33037215,
                 "language": "Shell",
-                "last_commit": "2026-08-19T20:52:34Z",
+                "last_commit": "2026-08-24T12:34:10Z",
                 "owner": "docker-mailserver",
                 "repo": "docker-mailserver",
-                "stars": 18791
+                "stars": 18792
               }
             },
             {
@@ -1580,7 +1803,7 @@
                 "last_commit": "2026-08-20T17:55:12Z",
                 "owner": "mailcow",
                 "repo": "mailcow-dockerized",
-                "stars": 13312
+                "stars": 13313
               }
             },
             {
@@ -1602,6 +1825,35 @@
           "description": null,
           "node_type": "group",
           "title": "Self-Hosted"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🤖",
+                  "description": "FairEmail - Fully featured, open source, privacy friendly email app for Android.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 143298715,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T13:44:01Z",
+                    "owner": "M66B",
+                    "repo": "FairEmail",
+                    "stars": 4578
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Android / iOS"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clients"
         },
         {
           "children": [
@@ -1632,11 +1884,11 @@
                 "last_commit": "2026-07-30T13:24:24Z",
                 "owner": "anonaddy",
                 "repo": "anonaddy",
-                "stars": 4814
+                "stars": 4815
               }
             }
           ],
-          "description": "With email aliases, you can finally create a different identity for each website. Defend against spams, phishing and data breach. You can choose self-hosting any of the following options or you can also use their own platform as a service.\nBack to top 🔝",
+          "description": "With email aliases, you can finally create a different identity for each website. Defend against spams, phishing and data breach. You can choose self-hosting any of the following options or you can also use their own platform as a service.",
           "node_type": "group",
           "title": "Email Alias Services (Anonymous Forwarding)"
         }
@@ -1650,6 +1902,43 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Dim",
+              "description": "Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327984336,
+                "language": "Rust",
+                "last_commit": "2025-09-21T23:13:17Z",
+                "owner": "Dusk-Labs",
+                "repo": "dim",
+                "stars": 4113
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video and Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🤖",
+              "description": "mucke - A music player for local files with unique custom playback options.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249820149,
+                "language": "Dart",
+                "last_commit": "2026-08-16T16:35:05Z",
+                "owner": "moritz-weber",
+                "repo": "mucke",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Spotube",
               "description": "A lightweight free Spotify crossplatform-client.",
               "children": [],
@@ -1660,7 +1949,7 @@
                 "last_commit": "2026-08-21T13:50:16Z",
                 "owner": "KRTirtho",
                 "repo": "spotube",
-                "stars": 48641
+                "stars": 48642
               }
             },
             {
@@ -1710,6 +1999,21 @@
             },
             {
               "node_type": "item",
+              "title": "🤖",
+              "description": "Blade Player - Open source Spotify client, works without premium.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 444546191,
+                "language": "Java",
+                "last_commit": "2024-01-17T11:34:31Z",
+                "owner": "vhaudiquet",
+                "repo": "BladePlayer",
+                "stars": 253
+              }
+            },
+            {
+              "node_type": "item",
               "title": "ViMusic",
               "description": "[Unmantained] A Jetpack Compose Android application for streaming music from YouTube Music.",
               "children": [
@@ -1722,7 +2026,7 @@
                     "archived": false,
                     "id": 628160489,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-23T17:22:52Z",
+                    "last_commit": "2026-08-24T10:18:58Z",
                     "owner": "maxrave-dev",
                     "repo": "SimpMusic",
                     "stars": 10685
@@ -1753,6 +2057,21 @@
                 "repo": "Beatbump",
                 "stars": 1133
               }
+            },
+            {
+              "node_type": "item",
+              "title": "dzr",
+              "description": "Command line Deezer player for Linux, BSD, Android+Termux",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215319035,
+                "language": "Shell",
+                "last_commit": "2026-03-15T15:22:49Z",
+                "owner": "yne",
+                "repo": "dzr",
+                "stars": 263
+              }
             }
           ],
           "description": "Spotify alternative clients\nThese clients, although will have less tracking, still DO NOT protect your privacy at all as you will still be streaming from Spotify servers from you own premium (paid, identified) account.\n* Premium required.\n* No premium required.\nYoutube Music alternative clients\nDeezer alternative clients",
@@ -1763,8 +2082,30 @@
       "title": "Media Streaming Platforms"
     },
     {
-      "description": "⛔ Avoid\nThese providers offer apps and services filled with data trackers. Also, most of them store your notes on their servers and do not offer any kind of encryption.\n✅ Instead use\nBack to top 🔝",
+      "description": "⛔ Avoid\nThese providers offer apps and services filled with data trackers. Also, most of them store your notes on their servers and do not offer any kind of encryption.\n✅ Instead use",
       "items": [
+        {
+          "node_type": "group",
+          "title": "Google Keep",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Keep To Markdown",
+              "description": "Convert your Google Keep notes into a standard markdown + YAML header format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266567272,
+                "language": "Python",
+                "last_commit": "2025-07-03T18:20:54Z",
+                "owner": "erikelisath",
+                "repo": "keep-to-markdown",
+                "stars": 156
+              }
+            }
+          ]
+        },
         {
           "node_type": "item",
           "title": "Memos",
@@ -1777,7 +2118,7 @@
             "last_commit": "2026-08-23T11:37:37Z",
             "owner": "usememos",
             "repo": "memos",
-            "stars": 62489
+            "stars": 62499
           }
         },
         {
@@ -1789,10 +2130,10 @@
             "archived": false,
             "id": 79162682,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:20:04Z",
+            "last_commit": "2026-08-24T13:25:58Z",
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56075
+            "stars": 56082
           }
         },
         {
@@ -1804,10 +2145,10 @@
             "archived": false,
             "id": 291438522,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T23:52:52Z",
+            "last_commit": "2026-08-24T13:40:36Z",
             "owner": "siyuan-note",
             "repo": "siyuan",
-            "stars": 45951
+            "stars": 45954
           }
         },
         {
@@ -1819,10 +2160,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:15:50Z",
+            "last_commit": "2026-08-24T13:22:38Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37568
+            "stars": 37571
           }
         },
         {
@@ -1837,7 +2178,7 @@
             "last_commit": "2026-08-12T20:07:53Z",
             "owner": "purocean",
             "repo": "yn",
-            "stars": 6740
+            "stars": 6742
           }
         },
         {
@@ -1890,7 +2231,7 @@
       "title": "Notes and Tasks"
     },
     {
-      "description": "⛔ Avoid\n✅ Instead use\nShazam alternative clients\nBack to top 🔝",
+      "description": "⛔ Avoid\n✅ Instead use\nShazam alternative clients",
       "items": [
         {
           "node_type": "item",
@@ -1904,7 +2245,7 @@
             "last_commit": "2026-08-20T18:10:50Z",
             "owner": "marin-m",
             "repo": "SongRec",
-            "stars": 1937
+            "stars": 1938
           }
         },
         {
@@ -1960,7 +2301,7 @@
                 "last_commit": "2026-08-22T12:09:35Z",
                 "owner": "dani-garcia",
                 "repo": "vaultwarden",
-                "stars": 66007
+                "stars": 66049
               }
             }
           ]
@@ -1969,7 +2310,7 @@
       "title": "Password Managers"
     },
     {
-      "description": "These tools are useful when sharing secrets, code snippets or any other kind of text with others in a private way.\nBack to top 🔝",
+      "description": "These tools are useful when sharing secrets, code snippets or any other kind of text with others in a private way.",
       "items": [
         {
           "node_type": "item",
@@ -1980,10 +2321,10 @@
             "archived": false,
             "id": 62937181,
             "language": "PHP",
-            "last_commit": "2026-08-20T06:28:59Z",
+            "last_commit": "2026-08-24T11:53:43Z",
             "owner": "PrivateBin",
             "repo": "PrivateBin",
-            "stars": 8567
+            "stars": 8568
           }
         },
         {
@@ -1998,7 +2339,7 @@
             "last_commit": "2026-08-24T04:28:36Z",
             "owner": "jhaals",
             "repo": "yopass",
-            "stars": 3081
+            "stars": 3083
           }
         },
         {
@@ -2022,6 +2363,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sure",
+              "description": "Open Source and secure OS for your personal finances. Community maintained fork of the archived Maybe project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1024661423,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T10:20:24Z",
+                "owner": "we-promise",
+                "repo": "sure",
+                "stars": 9594
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Full Featured Financial Management"
+        },
         {
           "children": [
             {
@@ -2073,7 +2436,7 @@
                 "last_commit": "2026-08-20T09:11:37Z",
                 "owner": "spliit-app",
                 "repo": "spliit",
-                "stars": 2877
+                "stars": 2881
               }
             },
             {
@@ -2088,7 +2451,7 @@
                 "last_commit": "2026-08-16T17:25:34Z",
                 "owner": "oss-apps",
                 "repo": "split-pro",
-                "stars": 1410
+                "stars": 1411
               }
             },
             {
@@ -2115,6 +2478,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Debitum",
+              "description": "With Debitum you can track all kinds of IOUs, be it money or lent items.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353234629,
+                "language": "Java",
+                "last_commit": "2024-03-18T06:18:26Z",
+                "owner": "Marmo",
+                "repo": "debitum",
+                "stars": 104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Ghostfolio",
               "description": "open source wealth management software built with web technology.",
               "children": [],
@@ -2125,7 +2510,7 @@
                 "last_commit": "2026-08-23T15:47:14Z",
                 "owner": "ghostfolio",
                 "repo": "ghostfolio",
-                "stars": 9174
+                "stars": 9176
               }
             },
             {
@@ -2137,7 +2522,7 @@
                 "archived": false,
                 "id": 123909654,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:00:18Z",
+                "last_commit": "2026-08-24T11:57:23Z",
                 "owner": "rotki",
                 "repo": "rotki",
                 "stars": 3991
@@ -2158,6 +2543,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "miniPaint",
+              "description": "Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11766620,
+                "language": "JavaScript",
+                "last_commit": "2026-04-20T18:43:28Z",
+                "owner": "viliusle",
+                "repo": "miniPaint",
+                "stars": 3433
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Czkawka",
               "description": "Multi functional app to find duplicates and similar images etc.",
               "children": [],
@@ -2168,7 +2575,7 @@
                 "last_commit": "2026-07-29T16:35:30Z",
                 "owner": "qarmin",
                 "repo": "czkawka",
-                "stars": 32865
+                "stars": 32870
               }
             },
             {
@@ -2183,7 +2590,7 @@
                 "last_commit": "2026-08-22T03:25:12Z",
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10259
+                "stars": 10260
               }
             },
             {
@@ -2198,13 +2605,35 @@
                 "last_commit": "2026-08-23T18:27:58Z",
                 "owner": "CyberTimon",
                 "repo": "RapidRAW",
-                "stars": 9577
+                "stars": 9579
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Desktop"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pocket Paint",
+              "description": "The standard image manipulation app for Catroid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5192255,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T01:43:44Z",
+                "owner": "Catrobat",
+                "repo": "Paintroid",
+                "stars": 496
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
         }
       ],
       "title": "Photo Editing and Management"
@@ -2212,6 +2641,28 @@
     {
       "description": "⛔ Avoid\n✅ Instead use",
       "items": [
+        {
+          "node_type": "group",
+          "title": "Google Photos",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Photos Takeout Helper",
+              "description": "Script that organizes the Google Takeout messy archive into one big chronological folder. Use this script to get out of Google Photos :).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252568375,
+                "language": "Dart",
+                "last_commit": "2025-01-29T08:39:52Z",
+                "owner": "TheLastGimbus",
+                "repo": "GooglePhotosTakeoutHelper",
+                "stars": 5874
+              }
+            }
+          ]
+        },
         {
           "children": [
             {
@@ -2223,10 +2674,10 @@
                 "archived": false,
                 "id": 455229168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:51:34Z",
+                "last_commit": "2026-08-24T13:47:19Z",
                 "owner": "immich-app",
                 "repo": "immich",
-                "stars": 112514
+                "stars": 112543
               }
             },
             {
@@ -2241,7 +2692,7 @@
                 "last_commit": "2026-08-19T19:55:30Z",
                 "owner": "LibrePhotos",
                 "repo": "librephotos",
-                "stars": 8045
+                "stars": 8046
               }
             },
             {
@@ -2253,7 +2704,7 @@
                 "archived": false,
                 "id": 219554455,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T19:29:53Z",
+                "last_commit": "2026-08-24T13:07:04Z",
                 "owner": "nextcloud",
                 "repo": "photos",
                 "stars": 715
@@ -2263,12 +2714,84 @@
           "description": null,
           "node_type": "group",
           "title": "Self-hosted"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Photok",
+              "description": "Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287088448,
+                "language": "Kotlin",
+                "last_commit": "2026-08-03T02:55:51Z",
+                "owner": "leonlatsch",
+                "repo": "Photok",
+                "stars": 947
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Local"
         }
       ],
       "title": "Photo Storage"
     },
     {
-      "description": "⛔ Avoid\n✅ Instead use\nBack to top 🔝",
+      "description": "This section is dedicated to some tools that may help users analyze the privacy status on their devices.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whoami Project",
+              "description": "Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267365362,
+                "language": "Shell",
+                "last_commit": "2025-10-13T04:17:18Z",
+                "owner": "owerdogan",
+                "repo": "whoami-project",
+                "stars": 2302
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RethinkDNS + Firewall",
+              "description": "An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270683546,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T10:34:13Z",
+                "owner": "celzero",
+                "repo": "rethink-app",
+                "stars": 5329
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
+        }
+      ],
+      "title": "Privacy Tools"
+    },
+    {
+      "description": "⛔ Avoid\n✅ Instead use",
       "items": [
         {
           "node_type": "item",
@@ -2317,7 +2840,7 @@
                 "last_commit": "2026-08-22T05:35:24Z",
                 "owner": "searxng",
                 "repo": "searxng",
-                "stars": 36017
+                "stars": 36034
               }
             }
           ]
@@ -2332,6 +2855,65 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Plume",
+              "description": "🧩 - Federated blogging application, thanks to ActivityPub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130482471,
+                "language": "Rust",
+                "last_commit": "2025-04-08T19:40:59Z",
+                "owner": "Plume-org",
+                "repo": "Plume",
+                "stars": 2221
+              }
+            }
+          ],
+          "description": "⛔ Avoid:\n✅ Alternatives:\n✅ Alternative Medium frontends:",
+          "node_type": "group",
+          "title": "Blogging platforms (Medium)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quetre",
+              "description": "Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482524094,
+                "language": "JavaScript",
+                "last_commit": "2025-11-06T23:02:00Z",
+                "owner": "zyachel",
+                "repo": "quetre",
+                "stars": 498
+              }
+            }
+          ],
+          "description": "⛔ Quora's website has ads and trackers that are used to get your data which is then sold/shared to third parties. Their privacy policy is bad.\n✅ Quora alternative frontends (web-based):",
+          "node_type": "group",
+          "title": "Quora"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DTube",
+              "description": "A full-featured video sharing website, decentralized.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133175005,
+                "language": "JavaScript",
+                "last_commit": "2026-03-01T18:50:11Z",
+                "owner": "dtube",
+                "repo": "dtube",
+                "stars": 827
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Invidious",
               "description": "Alternative and privacy respecting YouTube frontend.",
               "children": [],
@@ -2342,7 +2924,7 @@
                 "last_commit": "2026-08-23T20:33:36Z",
                 "owner": "iv-org",
                 "repo": "invidious",
-                "stars": 22746
+                "stars": 22749
               }
             },
             {
@@ -2369,7 +2951,7 @@
                 "archived": false,
                 "id": 197559490,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:44:31Z",
+                "last_commit": "2026-08-24T10:11:26Z",
                 "owner": "ViewTube",
                 "repo": "viewtube",
                 "stars": 1475
@@ -2402,7 +2984,7 @@
                 "last_commit": "2026-08-24T02:45:31Z",
                 "owner": "FreeTubeApp",
                 "repo": "FreeTube",
-                "stars": 21729
+                "stars": 21735
               }
             },
             {
@@ -2496,6 +3078,155 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ProxiTok",
+              "description": "Open source alternative frontend for TikTok",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443605948,
+                "language": "PHP",
+                "last_commit": "2025-05-31T18:56:17Z",
+                "owner": "pablouser1",
+                "repo": "ProxiTok",
+                "stars": 2134
+              }
+            }
+          ],
+          "description": "⛔ Avoid using TikTok, it is a toxic-designed application that harms not only the user privacy but also user integrity. You can take a read on these several posts.\n✅ TikTok alternative frontends (web-based):",
+          "node_type": "group",
+          "title": "TikTok"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Memos",
+                  "description": "An open-source, self-hosted memo hub with knowledge management and socialization.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 436297812,
+                    "language": "Go",
+                    "last_commit": "2026-08-23T11:37:37Z",
+                    "owner": "usememos",
+                    "repo": "memos",
+                    "stars": 62499
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Self-hosted"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nostr",
+                  "description": "Open protocol that is able to create a censorship-resistant global \"social\" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. Note: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 311211647,
+                    "language": null,
+                    "last_commit": "2025-06-27T20:23:51Z",
+                    "owner": "nostr-protocol",
+                    "repo": "nostr",
+                    "stars": 11991
+                  }
+                }
+              ],
+              "description": "[!NOTE] Federated social networks: A federated social network isn't a single website like Twitter or Facebook, it's a network of thousands of communities operated by different organizations and individuals that provide a seamless social media experience.",
+              "node_type": "group",
+              "title": "Decentralized"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nitter",
+                  "description": "Nitter is a free and open source alternative Twitter front-end focused on privacy.",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Fritter",
+                      "description": "A free, open-source Nitter client for Android (feed no longer available).",
+                      "children": [
+                        {
+                          "node_type": "group",
+                          "title": "",
+                          "description": null,
+                          "children": [
+                            {
+                              "node_type": "item",
+                              "title": "Squawker",
+                              "description": "An active fork of Fritter that fixes the feed.",
+                              "children": [],
+                              "repo_info": {
+                                "archived": false,
+                                "id": 652330778,
+                                "language": "Dart",
+                                "last_commit": "2026-06-23T13:06:14Z",
+                                "owner": "j-fbriere",
+                                "repo": "squawker",
+                                "stars": 1419
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 335428933,
+                        "language": "Dart",
+                        "last_commit": "2026-07-03T22:01:22Z",
+                        "owner": "jonjomckay",
+                        "repo": "fritter",
+                        "stars": 1445
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192928781,
+                    "language": "Nim",
+                    "last_commit": "2026-08-22T13:29:40Z",
+                    "owner": "zedeus",
+                    "repo": "nitter",
+                    "stars": 13482
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Alternative Frontends"
+            }
+          ],
+          "description": "⛔ Avoid using Twitter official app / website. It tracks users and creates user profiles based on what they follow, retweet and like. Twitter harms and violates user privacy with their policies by default.",
+          "node_type": "group",
+          "title": "Twitter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mbin",
+              "description": "🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse; the community-maintained continuation of kbin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 704255347,
+                "language": "PHP",
+                "last_commit": "2026-08-15T18:55:42Z",
+                "owner": "MbinOrg",
+                "repo": "mbin",
+                "stars": 426
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Libreddit",
               "description": "Private Reddit front-end written in Rust No longer working - Read here",
               "children": [],
@@ -2543,7 +3274,7 @@
                 "last_commit": "2026-08-22T06:43:07Z",
                 "owner": "owncast",
                 "repo": "owncast",
-                "stars": 11470
+                "stars": 11469
               }
             },
             {
@@ -2570,7 +3301,49 @@
       "title": "Social Networks and Platforms"
     },
     {
-      "description": "Back to top 🔝",
+      "description": "⛔ Avoid\n✅ Instead use\n[!WARNING] Alternative clients/modifications of Discord: Your IP and messages will still be shared and belong to Discord and they are not encrypted.Also using any of these modifications/clients violates the Discord ToS so, we are not responsible of any suspension or termination of your account but, this should not happen yet.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "See this section for Discord mods and alternative clients",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 319261190,
+            "language": "Python",
+            "last_commit": "2026-07-15T12:14:09Z",
+            "owner": "pluja",
+            "repo": "awesome-privacy",
+            "stars": 19595
+          }
+        }
+      ],
+      "title": "Teamworking Tools"
+    },
+    {
+      "description": "⛔ Avoid\n✅ Text translation\n✅ Alternative Google Translate frontends",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lingva",
+          "description": "💀 - Alternative front-end for Google Translate. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346112697,
+            "language": "TypeScript",
+            "last_commit": "2023-08-01T10:39:09Z",
+            "owner": "thedaviddelta",
+            "repo": "lingva-translate",
+            "stars": 1838
+          }
+        }
+      ],
+      "title": "Translation"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2581,10 +3354,10 @@
             "archived": false,
             "id": 264154402,
             "language": "Go",
-            "last_commit": "2026-08-22T13:20:35Z",
+            "last_commit": "2026-08-24T12:22:42Z",
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14633
+            "stars": 14635
           }
         },
         {
@@ -2632,10 +3405,10 @@
             "archived": false,
             "id": 15225670,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T10:36:45Z",
+            "last_commit": "2026-08-24T13:48:41Z",
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 29796
+            "stars": 29797
           }
         },
         {
@@ -2697,7 +3470,7 @@
                 "last_commit": "2026-08-23T00:30:00Z",
                 "owner": "Aliucord",
                 "repo": "Aliucord",
-                "stars": 4845
+                "stars": 4846
               }
             },
             {
@@ -2746,7 +3519,7 @@
               }
             }
           ],
-          "description": "[!WARNING] Your IP and messages will still be shared and belong to Discord and they are not encrypted.Also using any of these modifications/clients violates the Discord ToS so, we are not responsible of any suspension or termination of your account but, this should not happen yet.\nBack to top 🔝",
+          "description": "[!WARNING] Your IP and messages will still be shared and belong to Discord and they are not encrypted.Also using any of these modifications/clients violates the Discord ToS so, we are not responsible of any suspension or termination of your account but, this should not happen yet.",
           "node_type": "group",
           "title": "Alternative clients/modifications of Discord:"
         }
@@ -2754,7 +3527,7 @@
       "title": "Video and Audio Conferencing"
     },
     {
-      "description": "⛔ Avoid\nSuch programs come filled with trackers and telemetry. You can get a full list of reasons of why you should not use Adobe here. Almost the same apply for many privative editors.\n✅ Instead use\nBack to top 🔝",
+      "description": "⛔ Avoid\nSuch programs come filled with trackers and telemetry. You can get a full list of reasons of why you should not use Adobe here. Almost the same apply for many privative editors.\n✅ Instead use",
       "items": [
         {
           "node_type": "item",
@@ -2768,7 +3541,7 @@
             "last_commit": "2026-08-10T16:38:36Z",
             "owner": "OpenCut-app",
             "repo": "OpenCut",
-            "stars": 85614
+            "stars": 85642
           }
         },
         {
@@ -2783,7 +3556,7 @@
             "last_commit": "2026-08-21T09:03:12Z",
             "owner": "mifi",
             "repo": "lossless-cut",
-            "stars": 43159
+            "stars": 43165
           }
         }
       ],
@@ -2792,6 +3565,28 @@
     {
       "description": "⛔ Avoid\n✅ Instead use",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ungoogled Chromium",
+              "description": "A lightweight approach to removing Google web service dependency. Ungoogled-chromium is Google Chromium, sans dependency on Google web services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37347459,
+                "language": "Python",
+                "last_commit": "2026-08-21T18:25:02Z",
+                "owner": "ungoogled-software",
+                "repo": "ungoogled-chromium",
+                "stars": 27501
+              }
+            }
+          ],
+          "description": "[!TIP] It may be interesting to learn what you can do to harden your browser. You can follow this Hitchhiker’s Guide to Online Anonymity section to do it. Please, if you don't understand what you are doing, don't do it as you may be causing more harm than good to your privacy.",
+          "node_type": "group",
+          "title": "Desktop"
+        },
         {
           "children": [
             {
@@ -2828,7 +3623,7 @@
                         "last_commit": "2026-08-23T13:37:57Z",
                         "owner": "gorhill",
                         "repo": "uBlock",
-                        "stars": 67248
+                        "stars": 67251
                       }
                     }
                   ]
@@ -2837,6 +3632,28 @@
               "description": "Please read about what the addon does before installing. If you don't understand what you are doing you could end up damaging your privacy. Also, too many addons can slow down your browsing experience.",
               "node_type": "group",
               "title": "Anti-tracking"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Single File",
+                  "description": "Save a faithful copy of an entire web page in a single HTML file so you can use it offline.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 906022,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-05T14:41:22Z",
+                    "owner": "gildas-lormeau",
+                    "repo": "SingleFile",
+                    "stars": 22228
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Useful Tools"
             }
           ],
           "description": null,
@@ -2848,7 +3665,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:24:56.004Z",
+    "last_updated": "2026-08-24T13:49:36.147Z",
     "original_repository": "pluja/awesome-privacy",
     "original_repository_id": 319261190,
     "original_repository_sha": "775c5af85fd62fd67a17a9036369fb4070b6f38b",
