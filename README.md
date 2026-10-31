@@ -136,8 +136,8 @@
 
 ✅ Instead use
 
-* [🤖](#icons) [Stratum](https://github.com/stratumauth/app) ⭐ 4,627 | 🐛 83 | 🌐 C# | 📅 2026-10-11 - Two-Factor Authentication (2FA) client for Android + Wear OS.
-* [🤖](#icons) [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) ⭐ 749 | 🐛 71 | 🌐 Kotlin | 📅 2026-08-24 - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
+* [🤖](#icons) [Stratum](https://github.com/stratumauth/app) ⭐ 4,626 | 🐛 83 | 🌐 C# | 📅 2026-10-11 - Two-Factor Authentication (2FA) client for Android + Wear OS.
+* [🤖](#icons) [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) ⭐ 750 | 🐛 71 | 🌐 Kotlin | 📅 2026-08-24 - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
 * [Owky](https://github.com/charlietango/owky) ⭐ 58 | 🐛 10 | 🌐 TypeScript | 📅 2023-03-11 [💀](#icons) - Free and Open Source Two-Factor Authenticator for IOS users.
 * [🤖](#icons) [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
 * [ente Auth](https://ente.com/auth/) - A free, cross platform, end-to-end encrypted and open source app for managing your 2-step verification tokens. From the makers of [ente Photos](https://ente.com), and uses the same battle tested infrastructure. Needs an ente.io account.
@@ -178,11 +178,11 @@
 
 ✅  **Instead use**
 
-* [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 21,047 | 🐛 373 | 🌐 Dart | 📅 2026-10-25 - Get app updates directly from the source.
-* [Accrescent](https://github.com/accrescent/accrescent) ⭐ 2,305 | 🐛 54 | 🌐 Kotlin | 📅 2026-10-28 - A novel Android app store focused on security, privacy, and usability.
+* [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 21,072 | 🐛 373 | 🌐 Dart | 📅 2026-10-25 - Get app updates directly from the source.
+* [Accrescent](https://github.com/accrescent/accrescent) ⭐ 2,306 | 🐛 48 | 🌐 Kotlin | 📅 2026-10-31 - A novel Android app store focused on security, privacy, and usability.
 * [SkyDroid](https://github.com/redsolver/skydroid) ⚠️ Archived [💀](#icons) - Decentralized App Store for Android
 * [F-Droid](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-  * [Droid-ify](https://github.com/Droid-ify/client) ⭐ 7,664 | 🐛 197 | 🌐 Kotlin | 📅 2026-09-12 - Lightweight F-Droid client with Material UI.
+  * [Droid-ify](https://github.com/Droid-ify/client) ⭐ 7,673 | 🐛 200 | 🌐 Kotlin | 📅 2026-09-12 - Lightweight F-Droid client with Material UI.
   * [Foxy Droid](https://github.com/kitsunyan/foxy-droid) ⭐ 728 | 🐛 71 | 🌐 Kotlin | 📅 2022-10-19 [💀](#icons) - Unofficial F-Droid client in the style of the classic one.
   * [Aurora Droid](https://github.com/whyorean/AuroraDroid) ⭐ 171 | 🐛 3 | 🌐 Java | 📅 2020-09-30 [💀](#icons) - Aurora Droid is a modern FOSS client for F-Droid.
 * [FossDroid](https://fossdroid.com/) - Fossdroid's aim is to promote free and open source apps on the Android platform: newest, trendiest and the most popular ones.
@@ -199,7 +199,7 @@
 
 ✅ **Instead use**
 
-* [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) ⭐ 9,650 | 🐛 277 | 🌐 Rust | 📅 2026-10-26 - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+* [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) ⭐ 9,665 | 🐛 277 | 🌐 Rust | 📅 2026-10-26 - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 
 ### Android Dialer
 
@@ -209,7 +209,7 @@ Third-party dialers found on the play store. They may contain ads/trackers and m
 
 ✅  **Instead use**
 
-* [Fossify Phone](https://github.com/FossifyOrg/Phone) ⭐ 1,396 | 🐛 175 | 🌐 Kotlin | 📅 2026-10-27 - A handy phone call manager with phonebook, number blocking and multi-SIM support.
+* [Fossify Phone](https://github.com/FossifyOrg/Phone) ⭐ 1,397 | 🐛 173 | 🌐 Kotlin | 📅 2026-10-31 - A handy phone call manager with phonebook, number blocking and multi-SIM support.
 
 ### Android File Manager
 
@@ -219,9 +219,9 @@ Preinstalled file managers and third-party file manager apps found on the play s
 
 ✅  **Instead use**
 
-* [Material Files](https://github.com/zhanghai/MaterialFiles) ⭐ 9,353 | 🐛 624 | 🌐 Kotlin | 📅 2026-10-15 - An open source Material Design file manager, for Android 5.0+.
-* [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,447 | 🐛 665 | 🌐 Kotlin | 📅 2026-10-29 - Simple and attractive Material Design file manager for Android.
-* [🤖](#icons) [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) ⭐ 1,846 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-27 - Open source file manager for Android with no ads, no tracking, and no internet permission. GPL-3.0 licensed.
+* [Material Files](https://github.com/zhanghai/MaterialFiles) ⭐ 9,365 | 🐛 624 | 🌐 Kotlin | 📅 2026-10-15 - An open source Material Design file manager, for Android 5.0+.
+* [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,448 | 🐛 665 | 🌐 Kotlin | 📅 2026-10-29 - Simple and attractive Material Design file manager for Android.
+* [🤖](#icons) [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) ⭐ 1,847 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-27 - Open source file manager for Android with no ads, no tracking, and no internet permission. GPL-3.0 licensed.
 * [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
 
 ### Android Keyboard
@@ -233,8 +233,8 @@ Preinstalled file managers and third-party file manager apps found on the play s
 
 ✅ **Instead use**
 
-* [FlorisBoard](https://github.com/florisboard/florisboard) ⭐ 8,732 | 🐛 477 | 🌐 Kotlin | 📅 2026-10-25 - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
-* [Heliboard](https://github.com/HeliBorg/HeliBoard) ⭐ 6,450 | 🐛 867 | 🌐 Kotlin | 📅 2026-10-25 - A privacy-conscious and customizable open-source keyboard, based on AOSP / OpenBoard with many additional features and improvements, including support for custom dictionaries, themes, and glide typing.
+* [FlorisBoard](https://github.com/florisboard/florisboard) ⭐ 8,736 | 🐛 477 | 🌐 Kotlin | 📅 2026-10-25 - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+* [Heliboard](https://github.com/HeliBorg/HeliBoard) ⭐ 6,460 | 🐛 870 | 🌐 Kotlin | 📅 2026-10-31 - A privacy-conscious and customizable open-source keyboard, based on AOSP / OpenBoard with many additional features and improvements, including support for custom dictionaries, themes, and glide typing.
 * [OpenBoard](https://github.com/openboard-team/openboard) ⭐ 2,755 | 🐛 431 | 🌐 Java | 📅 2024-05-16 [💀](#icons) - OpenBoard is a 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy. It is no longer updated, but still works.
 * [Simple Keyboard](https://github.com/rkkr/simple-keyboard) ⭐ 1,604 | 🐛 57 | 🌐 Java | 📅 2026-10-22 - Simply keyboard and nothing more.
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
@@ -256,8 +256,8 @@ Your phone gallery is a deeply personal aspect of your life, it may contain imag
 
 ✅ **Instead use**
 
-* [Aves](https://github.com/deckerst/aves) ⭐ 5,470 | 🐛 174 | 🌐 Dart | 📅 2026-10-30 - Beautiful gallery and metadata explorer app, built for Android with Flutter.
-* [Fossify Gallery](https://github.com/FossifyOrg/Gallery) ⭐ 3,864 | 🐛 334 | 🌐 Kotlin | 📅 2026-10-24 - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
+* [Aves](https://github.com/deckerst/aves) ⭐ 5,474 | 🐛 171 | 🌐 Dart | 📅 2026-10-31 - Beautiful gallery and metadata explorer app, built for Android with Flutter.
+* [Fossify Gallery](https://github.com/FossifyOrg/Gallery) ⭐ 3,868 | 🐛 336 | 🌐 Kotlin | 📅 2026-10-31 - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
 
 ### Android Launcher
 
@@ -267,9 +267,9 @@ Third-party launchers found on the play store. They may contain ads/trackers and
 
 ✅  **Instead use**
 
-* [Olauncher](https://github.com/tanujnotes/Olauncher) ⭐ 3,934 | 🐛 23 | 🌐 Kotlin | 📅 2026-10-27 - Minimal AF (ad-free) launcher app for Android.
+* [Olauncher](https://github.com/tanujnotes/Olauncher) ⭐ 3,935 | 🐛 24 | 🌐 Kotlin | 📅 2026-10-27 - Minimal AF (ad-free) launcher app for Android.
 * [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) ⭐ 1,525 | 🐛 115 | 🌐 Java | 📅 2023-10-10 [💀](#icons) - Customizable and Open Source Launcher for Android.
-* [Pie Launcher](https://github.com/markusfisch/PieLauncher) ⭐ 574 | 🐛 82 | 🌐 Java | 📅 2026-10-29 - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
+* [Pie Launcher](https://github.com/markusfisch/PieLauncher) ⭐ 574 | 🐛 82 | 🌐 Java | 📅 2026-10-30 - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
 * [Lawnchair](https://lawnchair.app/) - No clever tagline needed.
 * [KISS](https://kisslauncher.com/) - Lightning fast, open-source, < 200kb Android launcher.
 * [Bliss Launcher](https://gitlab.e.foundation/e/os/BlissLauncher3) - The default launcher of the /e/ Android-based OS.
@@ -283,51 +283,51 @@ When using cloud-based AI services, the data you input is often collected and st
 
 #### ChatGPT
 
-* [ollama](https://github.com/ollama/ollama) ⭐ 185,340 | 🐛 4,495 | 🌐 Go | 📅 2026-10-30 - Get up and running with Llama 2 and other large language models locally.
-* [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 132,840 | 🐛 2,582 | 🌐 C++ | 📅 2026-10-30 - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
-* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 50,075 | 🐛 195 | 🌐 Go | 📅 2026-10-30 - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
-* [Jan](https://github.com/janhq/jan) ⭐ 45,172 | 🐛 562 | 🌐 Rust | 📅 2026-10-30 - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-* [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 6,000 | 🐛 9 | 🌐 Rust | 📅 2026-10-29 - Privacy-focused AI inference server with OpenAI API compatibility, zero cloud dependencies, and local model processing.
-* [PasteGuard](https://github.com/sgasser/pasteguard) ⭐ 790 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-13 - Privacy proxy for LLM APIs that masks PII and secrets before they reach cloud providers. Self-hosted, OpenAI-compatible, and restores original data in responses.
+* [ollama](https://github.com/ollama/ollama) ⭐ 185,446 | 🐛 4,516 | 🌐 Go | 📅 2026-10-30 - Get up and running with Llama 2 and other large language models locally.
+* [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 132,945 | 🐛 2,603 | 🌐 C++ | 📅 2026-10-31 - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
+* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 50,088 | 🐛 194 | 🌐 Go | 📅 2026-10-31 - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
+* [Jan](https://github.com/janhq/jan) ⭐ 45,196 | 🐛 567 | 🌐 Rust | 📅 2026-10-31 - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+* [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 6,003 | 🐛 9 | 🌐 Rust | 📅 2026-10-29 - Privacy-focused AI inference server with OpenAI API compatibility, zero cloud dependencies, and local model processing.
+* [PasteGuard](https://github.com/sgasser/pasteguard) ⭐ 795 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-13 - Privacy proxy for LLM APIs that masks PII and secrets before they reach cloud providers. Self-hosted, OpenAI-compatible, and restores original data in responses.
 * [Tinfoil](https://tinfoil.sh/) - Verifiably private AI Chat and OpenAI-compatible inference in the cloud. Uses NVIDIA confidential computing and open source code pinned to a transparency log for end-to-end verifiability.
 * [Open WebUI](https://openwebui.com) - Self-hosted web interface for Ollama and other local models that gives you a private ChatGPT-style chat. BSD-3 licensed.
 * [LibreChat](https://librechat.ai) - Self-hosted chat interface that connects many AI models behind one private UI you control. Open source, MIT licensed.
 
 #### AI Coding
 
-* [OpenCode](https://github.com/anomalyco/opencode/) ⭐ 223,196 | 🐛 3,833 | 🌐 TypeScript | 📅 2026-10-30 - The open source coding agent. Connect local models or any providers of your choice.
-* [Continue](https://github.com/continuedev/continue) ⭐ 36,371 | 🐛 858 | 🌐 TypeScript | 📅 2026-10-30 - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+* [OpenCode](https://github.com/anomalyco/opencode/) ⭐ 223,467 | 🐛 3,770 | 🌐 TypeScript | 📅 2026-10-31 - The open source coding agent. Connect local models or any providers of your choice.
+* [Continue](https://github.com/continuedev/continue) ⭐ 36,383 | 🐛 858 | 🌐 TypeScript | 📅 2026-10-30 - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 * [Cline](https://cline.bot/) - Open source AI coding for VSCode. See every decision and use your own models.
-  * [Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code) ⭐ 2,067 | 🐛 853 | 🌐 TypeScript | 📅 2026-10-30 - Cline fork with some improvements; community successor to the discontinued Roo Code.
+  * [Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code) ⭐ 2,072 | 🐛 854 | 🌐 TypeScript | 📅 2026-10-31 - Cline fork with some improvements; community successor to the discontinued Roo Code.
 * [Aider](https://aider.chat) - Terminal AI pair programmer that edits code in your local git repository using your own API keys. Apache-2.0 licensed.
 * [Tabby](https://tabby.tabbyml.com) - Self-hosted code completion assistant that runs on your own hardware as an alternative to GitHub Copilot. Apache-2.0 licensed.
 
 #### Text to Speech
 
-* [Chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ 27,428 | 🐛 377 | 🌐 Python | 📅 2026-07-21 - Local text-to-speech model with voice cloning that runs entirely on your own machine. Open source, MIT licensed.
-* [Espeak](https://github.com/espeak-ng/espeak-ng) ⭐ 6,987 | 🐛 683 | 🌐 C | 📅 2026-09-22 - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. Voices will sound rather robotic.
-* [Piper](https://github.com/OHF-Voice/piper1-gpl) ⭐ 6,089 | 🐛 154 | 🌐 C++ | 📅 2026-10-25 - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
-* [Kokoro FastAPI](https://github.com/remsky/Kokoro-FastAPI) ⭐ 5,619 | 🐛 17 | 🌐 Python | 📅 2026-10-30 - Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) text-to-speech model w/CPU, ONNX and NVIDIA GPU support, handling, and auto-stitching.
+* [Chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ 27,469 | 🐛 378 | 🌐 Python | 📅 2026-07-21 - Local text-to-speech model with voice cloning that runs entirely on your own machine. Open source, MIT licensed.
+* [Espeak](https://github.com/espeak-ng/espeak-ng) ⭐ 6,987 | 🐛 684 | 🌐 C | 📅 2026-09-22 - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. Voices will sound rather robotic.
+* [Piper](https://github.com/OHF-Voice/piper1-gpl) ⭐ 6,101 | 🐛 154 | 🌐 C++ | 📅 2026-10-30 - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
+* [Kokoro FastAPI](https://github.com/remsky/Kokoro-FastAPI) ⭐ 5,620 | 🐛 15 | 🌐 Python | 📅 2026-10-31 - Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) text-to-speech model w/CPU, ONNX and NVIDIA GPU support, handling, and auto-stitching.
 
 #### Speech to Text
 
 * **Models**
-  * [OpenAI Whisper](https://github.com/openai/whisper) ⭐ 111,579 | 🐛 180 | 🌐 Python | 📅 2026-08-31 - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
-    * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 54,796 | 🐛 360 | 🌐 C++ | 📅 2026-10-30 - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
-    * [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 26,322 | 🐛 19 | 🌐 Python | 📅 2026-10-25 - Reimplementation of Whisper using CTranslate2 that transcribes locally up to four times faster. MIT licensed.
-  * [Moonshine](https://github.com/moonshine-ai/moonshine) ⭐ 11,316 | 🐛 15 | 🌐 C++ | 📅 2026-10-02 - Fast and accurate automatic speech recognition (ASR) for edge devices.
+  * [OpenAI Whisper](https://github.com/openai/whisper) ⭐ 111,636 | 🐛 179 | 🌐 Python | 📅 2026-08-31 - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
+    * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 54,820 | 🐛 363 | 🌐 C++ | 📅 2026-10-30 - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
+    * [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 26,347 | 🐛 19 | 🌐 Python | 📅 2026-10-30 - Reimplementation of Whisper using CTranslate2 that transcribes locally up to four times faster. MIT licensed.
+  * [Moonshine](https://github.com/moonshine-ai/moonshine) ⭐ 11,337 | 🐛 17 | 🌐 C++ | 📅 2026-10-02 - Fast and accurate automatic speech recognition (ASR) for edge devices.
   * [ParakeetTDT](https://parakeettdt.com/) - Efficient audio transcription. Convert speech to text with unprecedented speed and accuracy using NVIDIA advanced AI speech recognition model.
 
 * **Apps and services**
-  * [OpenWhispr](https://github.com/OpenWhispr/openwhispr) ⭐ 10,360 | 🐛 460 | 🌐 JavaScript | 📅 2026-10-30 - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
-  * [Speaches](https://github.com/speaches-ai/speaches) ⭐ 3,744 | 🐛 150 | 🌐 Python | 📅 2026-10-29 - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.
+  * [OpenWhispr](https://github.com/OpenWhispr/openwhispr) ⭐ 10,431 | 🐛 465 | 🌐 JavaScript | 📅 2026-10-31 - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
+  * [Speaches](https://github.com/speaches-ai/speaches) ⭐ 3,747 | 🐛 150 | 🌐 Python | 📅 2026-10-29 - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.
   * [Sasayaki](https://github.com/pluja/sasayaki) ⭐ 12 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-25 - Tiny android dictation app that turns speech into clear writing.
 
 #### Image Generation
 
-* [ComfyUI](https://github.com/Comfy-Org/ComfyUI) ⭐ 144,124 | 🐛 5,390 | 🌐 Python | 📅 2026-10-30 - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
-* [InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,923 | 🐛 360 | 🌐 TypeScript | 📅 2026-10-30 - Generate and create stunning visual media using the latest AI-driven technologies locally.
-* [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) ⭐ 4,722 | 🐛 155 | 🌐 C# | 📅 2026-10-27 - Local web interface for Stable Diffusion and other diffusion models, built on a ComfyUI backend. MIT licensed.
+* [ComfyUI](https://github.com/Comfy-Org/ComfyUI) ⭐ 144,293 | 🐛 5,394 | 🌐 Python | 📅 2026-10-31 - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
+* [InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,938 | 🐛 354 | 🌐 TypeScript | 📅 2026-10-31 - Generate and create stunning visual media using the latest AI-driven technologies locally.
+* [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) ⭐ 4,726 | 🐛 154 | 🌐 C# | 📅 2026-10-30 - Local web interface for Stable Diffusion and other diffusion models, built on a ComfyUI backend. MIT licensed.
 
 [Back to top 🔝](#contents)
 
@@ -339,10 +339,10 @@ When using cloud-based AI services, the data you input is often collected and st
 
 ✅  **Instead use**
 
-* [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,696 | 🐛 117 | 🌐 Go | 📅 2026-10-26 - Open source, self-hosted bookmark manager written in Go, usable as a CLI or web app (MIT).
-* [LinkDing](https://github.com/sissbruecker/linkding) ⭐ 11,365 | 🐛 251 | 🌐 Python | 📅 2026-10-26 - Open source, self-hosted bookmark manager built to be minimal, fast, and easy to run with Docker (MIT).
-* [LinkAce](https://github.com/Kovah/LinkAce) ⭐ 3,351 | 🐛 54 | 🌐 PHP | 📅 2026-10-26 - Open source, self-hosted bookmark archive that monitors and organizes your saved links (GPL-3.0).
-* [Grimoire](https://github.com/goniszewski/grimoire) ⭐ 2,882 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-25 - Modern, open source, self-hosted bookmark manager.
+* [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,697 | 🐛 117 | 🌐 Go | 📅 2026-10-26 - Open source, self-hosted bookmark manager written in Go, usable as a CLI or web app (MIT).
+* [LinkDing](https://github.com/sissbruecker/linkding) ⭐ 11,370 | 🐛 251 | 🌐 Python | 📅 2026-10-26 - Open source, self-hosted bookmark manager built to be minimal, fast, and easy to run with Docker (MIT).
+* [LinkAce](https://github.com/Kovah/LinkAce) ⭐ 3,351 | 🐛 56 | 🌐 PHP | 📅 2026-10-26 - Open source, self-hosted bookmark archive that monitors and organizes your saved links (GPL-3.0).
+* [Grimoire](https://github.com/goniszewski/grimoire) ⭐ 2,881 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-25 - Modern, open source, self-hosted bookmark manager.
 * [42links](https://42links.tuxproject.de) - Open-source, self-hosted, minimalist bookmark storage service.
 * [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers and devices.
 * [Karakeep](https://karakeep.app/) - (previously Hoarder) Open source "Bookmark Everything" app that uses AI for automatically tagging the content you throw at it.
@@ -352,7 +352,7 @@ When using cloud-based AI services, the data you input is often collected and st
 
 ### Book and web annotations/highlights management
 
-* [Hypothesis](https://github.com/hypothesis/h/) ⭐ 3,189 | 🐛 227 | 🌐 Python | 📅 2026-10-26 - Annotate the web, with anyone, anywhere.
+* [Hypothesis](https://github.com/hypothesis/h/) ⭐ 3,190 | 🐛 227 | 🌐 Python | 📅 2026-10-26 - Annotate the web, with anyone, anywhere.
 * [Kobuddy](https://github.com/karlicoss/kobuddy) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2026-10-25 - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
 * [Blasta](https://git.xmpp-it.net/sch/Blasta) - A collaborative bookmarks manager for organizing online content.
 
@@ -370,7 +370,7 @@ Google captchas use cookies to track users and rank their IPs.
 ✅  **Instead use**
 
 * [mCaptcha](http://mcaptcha.org/) ([repo](https://github.com/mCaptcha/mCaptcha) ⭐ 2,497 | 🐛 55 | 🌐 Rust | 📅 2025-10-07) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
-* [Private Captcha](https://github.com/PrivateCaptcha/PrivateCaptcha) ⭐ 199 | 🐛 5 | 🌐 Go | 📅 2026-10-30 - Privacy-first and self-hosted Proof-of-Work CAPTCHA alternative, made in EU.
+* [Private Captcha](https://github.com/PrivateCaptcha/PrivateCaptcha) ⭐ 199 | 🐛 5 | 🌐 Go | 📅 2026-10-31 - Privacy-first and self-hosted Proof-of-Work CAPTCHA alternative, made in EU.
 * [Altcha.org](https://altcha.org) - Free, open-source and self-hosted CAPTCHA alternative using proof-of-work mechanism.
 
 [Back to top 🔝](#contents)
@@ -383,9 +383,9 @@ Google captchas use cookies to track users and rank their IPs.
 
 ✅  **Instead use**
 
-* [🤖](#icons) [Etar](https://github.com/Etar-Group/Etar-Calendar) ⭐ 2,629 | 🐛 403 | 🌐 Java | 📅 2026-10-29 - Open-source calendar app for Android that works with any CalDAV server.
-* [🤖](#icons) [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐ 2,256 | 🐛 329 | 🌐 Kotlin | 📅 2026-10-30 - Simple offline calendar app for Android with widget support.
-* [🤖](#icons) [KashCal](https://github.com/KashCal/KashCal) ⭐ 463 | 🐛 36 | 🌐 Kotlin | 📅 2026-10-30 - Offline-first Android calendar with iCloud/CalDAV sync, full-text search, recurring events, and home screen widget. Apache 2.0 licensed.
+* [🤖](#icons) [Etar](https://github.com/Etar-Group/Etar-Calendar) ⭐ 2,630 | 🐛 406 | 🌐 Java | 📅 2026-10-30 - Open-source calendar app for Android that works with any CalDAV server.
+* [🤖](#icons) [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐ 2,259 | 🐛 330 | 🌐 Kotlin | 📅 2026-10-30 - Simple offline calendar app for Android with widget support.
+* [🤖](#icons) [KashCal](https://github.com/KashCal/KashCal) ⭐ 463 | 🐛 35 | 🌐 Kotlin | 📅 2026-10-30 - Offline-first Android calendar with iCloud/CalDAV sync, full-text search, recurring events, and home screen widget. Apache 2.0 licensed.
 * [Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar) - Calendar app for Nextcloud with CalDAV support. Self-hostable.
 * [Proton Calendar](https://proton.me/calendar) - End-to-end encrypted calendar from Proton. Part of the Proton privacy ecosystem.
 
@@ -417,7 +417,7 @@ Google captchas use cookies to track users and rank their IPs.
 
 ### Text
 
-* [Stegcloak](https://stegcloak.surge.sh/) [💀](#icons) - Hide secrets with invisible characters in plain text securely using passwords ([repo](https://github.com/kurolabs/stegcloak) ⭐ 3,929 | 🐛 15 | 🌐 JavaScript | 📅 2024-10-01).
+* [Stegcloak](https://stegcloak.surge.sh/) [💀](#icons) - Hide secrets with invisible characters in plain text securely using passwords ([repo](https://github.com/kurolabs/stegcloak) ⭐ 3,931 | 🐛 15 | 🌐 JavaScript | 📅 2024-10-01).
 
 [Back to top 🔝](#contents)
 
@@ -451,7 +451,7 @@ Google captchas use cookies to track users and rank their IPs.
 Opt for open-source and P2P alternatives that prioritize data privacy, eliminate third-party interference, and offer transparent, community-backed functionalities over mainstream tools like Riverside.fm, Restream and Camtasia.
 
 * [vdo.ninja](https://vdo.ninja/) - Powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
-  * [socialstream.ninja](https://github.com/steveseguin/social_stream#readme) ⭐ 1,169 | 🐛 196 | 🌐 JavaScript | 📅 2026-10-29 - Consolidate your live social messaging streams and much more.
+  * [socialstream.ninja](https://github.com/steveseguin/social_stream#readme) ⭐ 1,170 | 🐛 197 | 🌐 JavaScript | 📅 2026-10-29 - Consolidate your live social messaging streams and much more.
 * [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
 * [Screenity](https://screenity.io/) - A screen recorder that's free, private, and friendly.
 
@@ -464,7 +464,7 @@ Opt for open-source and P2P alternatives that prioritize data privacy, eliminate
 
 ✅ Instead use
 
-* [Supabase](https://supabase.com/) - Open source Firebase alternative ([Limited](https://github.com/supabase/supabase/issues/4934) ⭐ 114,339 | 🐛 1,175 | 🌐 TypeScript | 📅 2026-10-30 [self-hosting](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832) ⭐ 114,339 | 🐛 1,175 | 🌐 TypeScript | 📅 2026-10-30)
+* [Supabase](https://supabase.com/) - Open source Firebase alternative ([Limited](https://github.com/supabase/supabase/issues/4934) ⭐ 114,377 | 🐛 1,164 | 🌐 TypeScript | 📅 2026-10-31 [self-hosting](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832) ⭐ 114,377 | 🐛 1,164 | 🌐 TypeScript | 📅 2026-10-31)
 * [Appwrite](https://appwrite.io/) - Secure open-source backend server for web, mobile & Flutter developers.
 * [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file written in Go.
 * [TrailBase](https://trailbase.io/) - Open source, single-executable Firebase alternative built on Rust and SQLite, with type-safe REST and realtime APIs, auth, and an admin UI. OSL-3.0 licensed.
@@ -518,7 +518,7 @@ Apps such as Tinder collect and sell your personal intimate information. Tinder 
 
 ✅  **Instead use**
 
-* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 134,855 | 🐛 3,440 | 🌐 TypeScript | 📅 2026-10-30 - Virtual whiteboard for sketching hand-drawn like diagrams.
+* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 134,918 | 🐛 3,450 | 🌐 TypeScript | 📅 2026-10-31 - Virtual whiteboard for sketching hand-drawn like diagrams.
 * [GIMP](https://www.gimp.org/) - A free and open-source raster graphics editor used for image manipulation (retouching) and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks. It is not designed to be used for drawing, though some artists and creators have used it in this way.
 * [Inkscape](https://inkscape.org/) - A free and open-source vector graphics editor for GNU/Linux, Windows and macOS. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting.
 * [Krita](https://krita.org/) - A free and open-source raster graphics editor designed primarily for digital art and 2D animation.
@@ -545,10 +545,10 @@ Apps such as Tinder collect and sell your personal intimate information. Tinder 
 
 ## Download Manager
 
-* [Motrix](https://github.com/agalwood/Motrix) ⭐ 57,591 | 🐛 171 | 🌐 TypeScript | 📅 2026-10-29 - A full-featured download manager.
-* [Xtreme Download Manager](https://github.com/subhra74/xdm) ⭐ 8,172 | 🐛 85 | 🌐 Kotlin | 📅 2026-10-27 - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
-* [Persepolis Download Manager](https://github.com/persepolisdm/persepolis) ⭐ 7,487 | 🐛 320 | 🌐 Python | 📅 2025-10-09 - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.
-* [axel](https://github.com/axel-download-accelerator/axel) ⭐ 3,420 | 🐛 87 | 🌐 C | 📅 2026-09-30 - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
+* [Motrix](https://github.com/agalwood/Motrix) ⭐ 57,621 | 🐛 172 | 🌐 TypeScript | 📅 2026-10-31 - A full-featured download manager.
+* [Xtreme Download Manager](https://github.com/subhra74/xdm) ⭐ 8,215 | 🐛 85 | 🌐 Kotlin | 📅 2026-10-31 - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
+* [Persepolis Download Manager](https://github.com/persepolisdm/persepolis) ⭐ 7,488 | 🐛 320 | 🌐 Python | 📅 2025-10-09 - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.
+* [axel](https://github.com/axel-download-accelerator/axel) ⭐ 3,421 | 🐛 87 | 🌐 C | 📅 2026-09-30 - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
 
 [Back to top 🔝](#contents)
 
@@ -564,8 +564,8 @@ Commercial ebook platforms track your reading habits, tie purchases to accounts 
 
 ✅ **Instead use**
 
-* [Kavita](https://github.com/Kareadita/Kavita) ⭐ 11,976 | 🐛 169 | 🌐 C# | 📅 2026-10-29 - Cross-platform self-hosted digital library for ebooks and comics with a built-in web reader (GPL-3.0).
-* [Komga](https://github.com/gotson/komga) ⭐ 6,799 | 🐛 10 | 🌐 Kotlin | 📅 2026-10-30 - Self-hosted media server for comics, magazines, and ebooks with a responsive web interface and OPDS support (MIT).
+* [Kavita](https://github.com/Kareadita/Kavita) ⭐ 11,982 | 🐛 169 | 🌐 C# | 📅 2026-10-31 - Cross-platform self-hosted digital library for ebooks and comics with a built-in web reader (GPL-3.0).
+* [Komga](https://github.com/gotson/komga) ⭐ 6,804 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-30 - Self-hosted media server for comics, magazines, and ebooks with a responsive web interface and OPDS support (MIT).
 * [Calibre](https://calibre-ebook.com/) - Open-source ebook manager for Linux, Windows, and macOS with format conversion, metadata editing, and a built-in reader (GPL-3.0).
 
 [Back to top 🔝](#contents)
@@ -579,7 +579,7 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 * [Hat.sh](https://hat.sh/) - A Free, Fast, Secure and Serverless File Encryption.
 * [Cryptomator](https://cryptomator.org/) - Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
 * [Stegcloak](https://stegcloak.surge.sh/) [💀](#icons) - Hide secrets with invisible characters in plain text securely using passwords.
-* [Photok](https://github.com/leonlatsch/Photok) ⭐ 994 | 🐛 50 | 🌐 Kotlin | 📅 2026-10-30 - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
+* [Photok](https://github.com/leonlatsch/Photok) ⭐ 998 | 🐛 51 | 🌐 Kotlin | 📅 2026-10-30 - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
 * [age](https://age-encryption.org) - Modern command line file encryption tool with small keys and no configuration or keyring to manage. Open source, BSD-3 licensed.
 * [Tomb](https://dyne.org/software/tomb/) - Command line tool to create and manage encrypted storage folders on GNU/Linux, built on standard LUKS and cryptsetup.
 
@@ -599,18 +599,18 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 
 ✅ **Instead use**
 
-* [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 47,366 | 🐛 3 | 🌐 Python | 📅 2026-10-30 - A community-supported supercharged version of paperless based on paperless-ng
-* [Croc](https://github.com/schollz/croc) ⭐ 40,812 | 🐛 6 | 🌐 Go | 📅 2026-10-27 - Easily and securely send things from one computer to another.
-* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) ⭐ 23,064 | 🐛 185 | 🌐 Python | 📅 2026-10-30 - Get things from one computer to another, safely.
-* [PairDrop](https://github.com/schlagmichdoch/PairDrop) ⭐ 11,727 | 🐛 126 | 🌐 JavaScript | 📅 2026-04-22 - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
-* [QRcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,523 | 🐛 7 | 🌐 Go | 📅 2026-10-01 - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-* [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,196 | 🐛 58 | 🌐 Python | 📅 2026-10-29 - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+* [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 47,438 | 🐛 5 | 🌐 Python | 📅 2026-10-31 - A community-supported supercharged version of paperless based on paperless-ng
+* [Croc](https://github.com/schollz/croc) ⭐ 40,816 | 🐛 6 | 🌐 Go | 📅 2026-10-31 - Easily and securely send things from one computer to another.
+* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) ⭐ 23,071 | 🐛 183 | 🌐 Python | 📅 2026-10-30 - Get things from one computer to another, safely.
+* [PairDrop](https://github.com/schlagmichdoch/PairDrop) ⭐ 11,732 | 🐛 127 | 🌐 JavaScript | 📅 2026-04-22 - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
+* [QRcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,522 | 🐛 7 | 🌐 Go | 📅 2026-10-01 - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+* [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,199 | 🐛 58 | 🌐 Python | 📅 2026-10-29 - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 * [Yopass](https://github.com/jhaals/yopass) ⭐ 3,212 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Secure sharing of secrets, passwords and files.
 * [Gokapi](https://github.com/Forceu/Gokapi) ⭐ 2,924 | 🐛 53 | 🌐 Go | 📅 2026-10-26 - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * [Sharik](https://github.com/marchellodev/sharik) ⭐ 1,278 | 🐛 65 | 🌐 Dart | 📅 2024-07-30 [💀](#icons) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 * [Dat-cp](https://github.com/tom-james-watson/dat-cp) ⚠️ Archived [💀](#icons) - Copy files between hosts on a network using the peer-to-peer Dat network.
 * [Blindsend](https://github.com/blindnet-io/blindsend) ⭐ 185 | 🐛 11 | 📅 2023-11-10 [💀](#icons) - Open source tool for private, end-to-end encrypted file exchange.
-* [Snapdrop](https://github.com/RobinLinus/snapdrop) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15 - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+* [Snapdrop](https://github.com/RobinLinus/snapdrop) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15 - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
 * [Blaze](https://blaze.vercel.app/) - A fast, p2p and radically different way to transfer files.
 * [Destiny](https://leastauthority.com/community-matters/destiny/) - Send files directly to the receiver in real-time. Developed for and with HROs as a free Privacy Enhancing Technology alternative.
 * [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle — File sharing software.
@@ -709,7 +709,7 @@ Nintendo [collects user data](https://www.reddit.com/r/privacy/comments/qtj9xt/t
 
 [![](https://shields.tosdr.org/en_244.svg)](https://tosdr.org/en/service/244)
 
-The game is owned by Microsoft. If this is not enough, you need a Microsoft account to play Minecraft since March 11th, 2022. Microsoft locks accounts some time not long after account creation and [forces the user](https://github.com/MultiMC/Launcher/issues/4093) ⭐ 4,686 | 🐛 324 | 🌐 C++ | 📅 2026-10-30 [to provide](https://www.reddit.com/r/privacy/comments/e6x27o/microsoft_forcing_me_to_give_then_my_phone_number/) a **phone number**. See: [Minecraft FAQ](https://help.minecraft.net/hc/en-us/articles/360050865492-Minecraft-Java-Edition-Account-Migration-FAQ), [1](https://www.reddit.com/r/Minecraft/comments/sl8pkv/how_can_my_friend_migrate_her_account_to/hvq2sv6/), [2](https://www.reddit.com/r/privacy/comments/spcuj4/microsoft_is_going_to_attempt_to_move_everyone_on/)
+The game is owned by Microsoft. If this is not enough, you need a Microsoft account to play Minecraft since March 11th, 2022. Microsoft locks accounts some time not long after account creation and [forces the user](https://github.com/MultiMC/Launcher/issues/4093) ⭐ 4,688 | 🐛 321 | 🌐 C++ | 📅 2026-10-30 [to provide](https://www.reddit.com/r/privacy/comments/e6x27o/microsoft_forcing_me_to_give_then_my_phone_number/) a **phone number**. See: [Minecraft FAQ](https://help.minecraft.net/hc/en-us/articles/360050865492-Minecraft-Java-Edition-Account-Migration-FAQ), [1](https://www.reddit.com/r/Minecraft/comments/sl8pkv/how_can_my_friend_migrate_her_account_to/hvq2sv6/), [2](https://www.reddit.com/r/privacy/comments/spcuj4/microsoft_is_going_to_attempt_to_move_everyone_on/)
 
 The game has [telemetry embeded in it since v21w38a which you can't opt-out](https://bugs.mojang.com/browse/MC-237493). Also, [it is tied](https://www.minecraft.net/en-us/terms) to the [Microsoft privacy terms](https://privacy.microsoft.com/en-us/privacystatement) which are a privacy nightmare.
 
@@ -734,7 +734,7 @@ Nintendo [collects user data](https://www.reddit.com/r/privacy/comments/qtj9xt/t
 
 ✅  **Instead use**
 
-* [Pokete](https://github.com/lxgr-linux/pokete) ⭐ 3,159 | 🐛 30 | 🌐 Python | 📅 2026-05-22 - A small terminal based game in the style of a very popular and old game by Gamefreak.
+* [Pokete](https://github.com/lxgr-linux/pokete) ⭐ 3,158 | 🐛 30 | 🌐 Python | 📅 2026-05-22 - A small terminal based game in the style of a very popular and old game by Gamefreak.
 
 ### Sonic the Hedgehog
 
@@ -799,13 +799,13 @@ The service is in charge of running the servers that allow users to communicate.
 
 * [Threema](https://threema.com/en) - The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client.
 * [Signal](https://signal.org/) - Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.
-  * [🤖](#icons) [Molly](https://github.com/mollyim/mollyim-android) ⭐ 3,796 | 🐛 357 | 🌐 Kotlin | 📅 2026-10-29 - Signal-compatible fork client with some security enhancements.
+  * [🤖](#icons) [Molly](https://github.com/mollyim/mollyim-android) ⭐ 3,801 | 🐛 358 | 🌐 Kotlin | 📅 2026-10-30 - Signal-compatible fork client with some security enhancements.
 
 ### P2P
 
 No servers involved. Everything goes directly from one peer to the other peer. No point of failure or control. The features are reduced because of the lack of server, messaging can be slower. Best option for critical chats.
 
-* [Tinfoil Chat](https://github.com/maqp/tfc) ⭐ 1,322 | 🐛 7 | 🌐 Python | 📅 2026-07-21 - Onion-routed, endpoint secure messaging system.
+* [Tinfoil Chat](https://github.com/maqp/tfc) ⭐ 1,323 | 🐛 7 | 🌐 Python | 📅 2026-07-21 - Onion-routed, endpoint secure messaging system.
 * [Tox](https://tox.chat/) - Tox is easy-to-use software that connects you with friends and family without anyone else listening in.
 * [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
 * [Berty](https://berty.tech/) - The privacy-first messaging app that works with or without internet access, cellular data or trust in the network.
@@ -828,7 +828,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 ✅  **Instead use**
 
 * [MagLit](https://maglit.me) - An encrypted and privacy respecting Link Shortener service that also supports Magnet Links.
-* [Dub](https://github.com/dubinc/dub) ⭐ 25,025 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-27 - You can self-host Dub.co for greater control over your data and design.
+* [Dub](https://github.com/dubinc/dub) ⭐ 25,054 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-27 - You can self-host Dub.co for greater control over your data and design.
 * [Yourls](https://yourls.org/) -  Self hosted URL shortener in PHP.
 * [tnyr.me](https://tnyr.me) - A zero-trust URL shortener with paswordless end-to-end encryption.
 * [Kutt](https://kutt.it/) - Self-hosted URL shortener with custom domains and password-protected links. Open source, MIT licensed.
@@ -847,14 +847,14 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 
 ### Tracking
 
-* [Dawarich](https://github.com/Freika/dawarich) ⭐ 10,781 | 🐛 123 | 🌐 Ruby | 📅 2026-10-29 - Self-hosted alternative to Google Location History.
+* [Dawarich](https://github.com/Freika/dawarich) ⭐ 10,787 | 🐛 112 | 🌐 Ruby | 📅 2026-10-31 - Self-hosted alternative to Google Location History.
 * [Nextcloud Phonetrack](https://apps.nextcloud.com/apps/phonetrack) - Nextcloud app to track location history with an [Android app](https://gitlab.com/eneiluj/phonetrack-android) ([other apps also supported](https://gitlab.com/eneiluj/phonetrack-oc/-/wikis/userdoc#logging-methods)). Supports caching positions offline and sending them to the server in batches. The first-party app has good battery saving options.
 * [OwnTracks](https://owntracks.org/) - Location tracking for displaying the current location only (limited location history functionality).
 * [Traccar](https://www.traccar.org/) - Location tracking software made for dedicated GPS logging devices.
 
 ### Find My Device
 
-* [GPSlogger](https://github.com/mendhak/gpslogger) ⭐ 2,630 | 🐛 201 | 🌐 Java | 📅 2026-10-28 - Lightweight GPS Logging Application For Android. No servers, no internet. Saved to a simple file to local storage.
+* [GPSlogger](https://github.com/mendhak/gpslogger) ⭐ 2,631 | 🐛 201 | 🌐 Java | 📅 2026-10-31 - Lightweight GPS Logging Application For Android. No servers, no internet. Saved to a simple file to local storage.
 * [Find My Device](https://gitlab.com/Nulide/findmydevice) - Find your Android Device via SMS.
 
 [Back to top 🔝](#contents)
@@ -881,17 +881,17 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 
 ### Self-Hosted
 
-* [Docker mail server](https://github.com/docker-mailserver/docker-mailserver) ⭐ 19,709 | 🐛 88 | 🌐 Shell | 📅 2026-10-26 - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
-* [Mail-in-a-box](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,447 | 🐛 620 | 🌐 Python | 📅 2026-10-22 - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-* [Mailcow: dockerized](https://github.com/mailcow/mailcow-dockerized) ⭐ 13,717 | 🐛 549 | 🌐 JavaScript | 📅 2026-10-30 - The mailserver suite with the 'moo'.
-* [Mox](https://github.com/mjl-/mox) ⭐ 5,919 | 🐛 224 | 🌐 Go | 📅 2026-10-27 - Modern full-featured open source secure mail server for low-maintenance self-hosted email.
+* [Docker mail server](https://github.com/docker-mailserver/docker-mailserver) ⭐ 19,711 | 🐛 89 | 🌐 Shell | 📅 2026-10-26 - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
+* [Mail-in-a-box](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,448 | 🐛 620 | 🌐 Python | 📅 2026-10-22 - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+* [Mailcow: dockerized](https://github.com/mailcow/mailcow-dockerized) ⭐ 13,722 | 🐛 550 | 🌐 JavaScript | 📅 2026-10-30 - The mailserver suite with the 'moo'.
+* [Mox](https://github.com/mjl-/mox) ⭐ 5,922 | 🐛 225 | 🌐 Go | 📅 2026-10-27 - Modern full-featured open source secure mail server for low-maintenance self-hosted email.
 * [Stalwart](https://stalw.art/) - All-in-one mail server written in Rust that covers SMTP, IMAP, and JMAP, with two independent security audits (AGPL-3.0).
 
 ### Clients
 
 #### Android / iOS
 
-* [🤖](#icons) [FairEmail](https://github.com/M66B/FairEmail) ⭐ 4,738 | 🐛 3 | 🌐 Java | 📅 2026-10-30 - Fully featured, open source, privacy friendly email app for Android.
+* [🤖](#icons) [FairEmail](https://github.com/M66B/FairEmail) ⭐ 4,742 | 🐛 3 | 🌐 Java | 📅 2026-10-31 - Fully featured, open source, privacy friendly email app for Android.
 * [🤖](#icons) [K9](https://k9mail.app/) - Open Source Email App for Android.
 
 #### Desktop
@@ -902,8 +902,8 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 
 With email aliases, you can finally create a different identity for each website. Defend against spams, phishing and data breach. You can choose self-hosting any of the following options or you can also use their own platform as a service.
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,101 | 🐛 265 | 🌐 Python | 📅 2026-10-30 - Open source, self-hostable email aliasing service now owned by Proton (AGPL-3.0).
-* [AnonAddy](https://github.com/anonaddy/anonaddy) ⭐ 4,926 | 🐛 63 | 🌐 PHP | 📅 2026-10-29 - Open source, self-hostable email aliasing and forwarding service, now named addy.io (AGPL-3.0).
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,105 | 🐛 265 | 🌐 Python | 📅 2026-10-30 - Open source, self-hostable email aliasing service now owned by Proton (AGPL-3.0).
+* [AnonAddy](https://github.com/anonaddy/anonaddy) ⭐ 4,930 | 🐛 62 | 🌐 PHP | 📅 2026-10-29 - Open source, self-hostable email aliasing and forwarding service, now named addy.io (AGPL-3.0).
 
 [Back to top 🔝](#contents)
 
@@ -945,13 +945,13 @@ With email aliases, you can finally create a different identity for each website
 
 #### Video and Audio
 
-* [Dim](https://github.com/Dusk-Labs/dim) ⭐ 4,123 | 🐛 161 | 🌐 Rust | 📅 2025-09-21 - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+* [Dim](https://github.com/Dusk-Labs/dim) ⭐ 4,122 | 🐛 161 | 🌐 Rust | 📅 2025-09-21 - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 * [Jellyfin](https://jellyfin.org/) - Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
 * [Stremio](https://www.stremio.com/) - Stremio is a modern media center that's a one-stop solution for your video entertainment.
 
 #### Audio
 
-* [🤖](#icons) [mucke](https://github.com/moritz-weber/mucke) ⭐ 267 | 🐛 49 | 🌐 Dart | 📅 2026-10-29 - A music player for local files with unique custom playback options.
+* [🤖](#icons) [mucke](https://github.com/moritz-weber/mucke) ⭐ 268 | 🐛 48 | 🌐 Dart | 📅 2026-10-30 - A music player for local files with unique custom playback options.
 * [Funkwhale](https://funkwhale.audio/) - A social platform to enjoy and share music (SoundCloud alternative).
 * [Subsonic](https://www.subsonic.org/pages/index.jsp) - Your complete, personal music streamer.
 * [Ampache](https://ampache.org/) - A web based audio/video streaming application and file manager.
@@ -966,16 +966,16 @@ With email aliases, you can finally create a different identity for each website
 \* Premium required.
 
 * [psst\*](https://github.com/jpochyla/psst) ⭐ 9,502 | 🐛 156 | 🌐 Rust | 📅 2026-08-18 - Fast and multi-platform Spotify client with native GUI.
-* [ncspot\*](https://github.com/hrkfdn/ncspot) ⭐ 6,800 | 🐛 209 | 🌐 Rust | 📅 2026-10-26 - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+* [ncspot\*](https://github.com/hrkfdn/ncspot) ⭐ 6,802 | 🐛 207 | 🌐 Rust | 📅 2026-10-31 - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 * [Spot\*](https://github.com/xou816/spot) ⭐ 2,364 | 🐛 115 | 🌐 Rust | 📅 2025-10-13 - Native Spotify client built in GTK and Rust.
 
 No premium required:
 
-* [Spotube](https://github.com/team-spotube/spotube) ⭐ 50,478 | 🐛 641 | 🌐 Kotlin | 📅 2026-10-30 - A lightweight free Spotify crossplatform-client.
+* [Spotube](https://github.com/team-spotube/spotube) ⭐ 50,510 | 🐛 419 | 🌐 Kotlin | 📅 2026-10-31 - A lightweight free Spotify crossplatform-client.
 
 **Youtube Music alternative clients**
 
-* [SimpMusic](https://github.com/Maxrave-Dev/SimpMusic) ⭐ 12,558 | 🐛 349 | 🌐 Kotlin | 📅 2026-10-30 - Open source, actively maintained YouTube Music client for Android (successor to the discontinued ViMusic and RiMusic).
+* [SimpMusic](https://github.com/Maxrave-Dev/SimpMusic) ⭐ 12,590 | 🐛 354 | 🌐 Kotlin | 📅 2026-10-31 - Open source, actively maintained YouTube Music client for Android (successor to the discontinued ViMusic and RiMusic).
 * [Beatbump](https://github.com/snuffyDev/Beatbump) ⚠️ Archived [💀](#icons) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
 
 **Deezer alternative clients**
@@ -1014,14 +1014,14 @@ These providers offer apps and services filled with data trackers. Also, most of
 
 ✅  **Instead use**
 
-* [Memos](https://github.com/usememos/memos) ⭐ 64,186 | 🐛 59 | 🌐 Go | 📅 2026-10-29 - An open-source, self-hosted memo hub with knowledge management and socialization.
-* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,941 | 🐛 652 | 🌐 TypeScript | 📅 2026-10-30 - Note taking and to-do application with synchronisation and encryption capabilities.
-* [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 47,003 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-30 - A local-first personal knowledge management system.
-* [Trilium Notes](https://github.com/TriliumNext/Trilium) ⭐ 38,626 | 🐛 588 | 🌐 TypeScript | 📅 2026-10-30 - Build your personal knowledge base with Trilium Notes
-* [YankNote](https://github.com/purocean/yn) ⭐ 6,766 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-30 - A Hackable Markdown Note Application for Programmers.
-* [Notally](https://github.com/OmGodse/Notally) ⭐ 2,196 | 🐛 13 | 🌐 Kotlin | 📅 2026-05-21 - A beautiful notes app (local only, no sync).
-* [Nextcloud Notes](https://github.com/nextcloud/notes/) ⭐ 742 | 🐛 214 | 🌐 JavaScript | 📅 2026-10-26 - The Notes app is a distraction free notes taking app for Nextcloud.
-  * [Nextcloud Notes app](https://github.com/nextcloud/notes-android) ⭐ 1,111 | 🐛 259 | 🌐 Java | 📅 2026-10-30 - An android client for Nextcloud Notes.
+* [Memos](https://github.com/usememos/memos) ⭐ 64,199 | 🐛 60 | 🌐 Go | 📅 2026-10-31 - An open-source, self-hosted memo hub with knowledge management and socialization.
+* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,959 | 🐛 651 | 🌐 TypeScript | 📅 2026-10-30 - Note taking and to-do application with synchronisation and encryption capabilities.
+* [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 47,018 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-31 - A local-first personal knowledge management system.
+* [Trilium Notes](https://github.com/TriliumNext/Trilium) ⭐ 38,628 | 🐛 586 | 🌐 TypeScript | 📅 2026-10-31 - Build your personal knowledge base with Trilium Notes
+* [YankNote](https://github.com/purocean/yn) ⭐ 6,768 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-31 - A Hackable Markdown Note Application for Programmers.
+* [Notally](https://github.com/OmGodse/Notally) ⭐ 2,197 | 🐛 13 | 🌐 Kotlin | 📅 2026-05-21 - A beautiful notes app (local only, no sync).
+* [Nextcloud Notes](https://github.com/nextcloud/notes/) ⭐ 742 | 🐛 214 | 🌐 JavaScript | 📅 2026-10-31 - The Notes app is a distraction free notes taking app for Nextcloud.
+  * [Nextcloud Notes app](https://github.com/nextcloud/notes-android) ⭐ 1,111 | 🐛 261 | 🌐 Java | 📅 2026-10-31 - An android client for Nextcloud Notes.
 * [Anytype](https://www.anytype.io/) - An open-source Notion alternative. E2EE, cloud and local network sync, can be self-hosted.
 * [AppFlowy](https://appflowy.com/) - Open Source Notion Alternative. You are in charge of your data and customizations.
 * [HedgeDoc](https://hedgedoc.org/) - Formerly CodiMD (community). An awesome platform to write and share markdown.
@@ -1048,7 +1048,7 @@ These providers offer apps and services filled with data trackers. Also, most of
 
 **Shazam alternative clients**
 
-* [SongRec](https://github.com/marin-m/SongRec) ⭐ 2,023 | 🐛 71 | 🌐 Rust | 📅 2026-10-30 - An open-source Shazam client for Linux, written in Rust.
+* [SongRec](https://github.com/marin-m/SongRec) ⭐ 2,033 | 🐛 71 | 🌐 Rust | 📅 2026-10-30 - An open-source Shazam client for Linux, written in Rust.
 * [SongID Telegram Bot](https://github.com/smcclennon/SongID) ⭐ 111 | 🐛 4 | 🌐 Python | 📅 2025-10-19 - A Telegram bot that can identify music in audio/video files you send it.
 
 [Back to top 🔝](#contents)
@@ -1146,7 +1146,7 @@ You can also check out [Media Streaming Platforms](https://github.com/pluja/awes
 
 ⛔ **Avoid**
 
-* MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10 or 11, you can use [Win11Debloat](https://github.com/Raphire/Win11Debloat) ⭐ 61,280 | 🐛 43 | 🌐 PowerShell | 📅 2026-10-29, or [this other tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
+* MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10 or 11, you can use [Win11Debloat](https://github.com/Raphire/Win11Debloat) ⭐ 61,346 | 🐛 39 | 🌐 PowerShell | 📅 2026-10-30, or [this other tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
 * MacOS.
 
 ✅ **Instead use**
@@ -1192,7 +1192,7 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
 * [CarryPass](https://carrypass.net) - Zero-knowledge PWA password manager with deterministic generation, encrypted vaults, and team collaboration. ([Source](https://github.com/racz-zoltan/racz-zoltan.github.io) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04) `MIT`
 * [AliasVault](https://www.aliasvault.com) - An open source E2EE password & alias manager with a built-in email alias server
 * [Bitwarden](https://bitwarden.com) - An open source cloud based password manager.
-  * [vaultwarden](https://github.com/dani-garcia/vaultwarden/) ⭐ 69,939 | 🐛 88 | 🌐 Rust | 📅 2026-10-29 - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
+  * [vaultwarden](https://github.com/dani-garcia/vaultwarden/) ⭐ 69,981 | 🐛 88 | 🌐 Rust | 📅 2026-10-29 - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
 * [KeepassXC](https://keepassxc.org/) - Securely store passwords using industry standard encryption, no sync just storage.
   * [KeepassDX](https://www.keepassdx.com/) for Android.
   * [Strongbox](https://strongboxsafe.com/) for iOS.
@@ -1207,7 +1207,7 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
 
 These tools are useful when sharing secrets, code snippets or any other kind of text with others in a private way.
 
-* [PrivateBin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,722 | 🐛 203 | 🌐 PHP | 📅 2026-10-30 - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+* [PrivateBin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,723 | 🐛 202 | 🌐 PHP | 📅 2026-10-30 - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 * [Yopass](https://github.com/jhaals/yopass) ⭐ 3,212 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Secure sharing of secrets, passwords and files.
 * [NoPaste](https://github.com/bokub/nopaste) ⭐ 453 | 🐛 5 | 🌐 JavaScript | 📅 2025-11-03 - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 * [crypt.fyi](https://www.crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
@@ -1255,7 +1255,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 ### Full Featured Financial Management
 
-* [Sure](https://github.com/we-promise/sure) ⭐ 10,726 | 🐛 822 | 🌐 Ruby | 📅 2026-10-30 - Open Source and secure OS for your personal finances. Community maintained fork of the archived [Maybe](https://github.com/maybe-finance/maybe) ⚠️ Archived project.
+* [Sure](https://github.com/we-promise/sure) ⭐ 10,738 | 🐛 801 | 🌐 Ruby | 📅 2026-10-31 - Open Source and secure OS for your personal finances. Community maintained fork of the archived [Maybe](https://github.com/maybe-finance/maybe) ⚠️ Archived project.
 * [Actual](https://actualbudget.org) - Super fast and privacy-focused app for managing your finances.
 * [Firefly III](https://www.firefly-iii.org/) - A free and open source personal finance manager.
 * [GnuCash](https://gnucash.org/) - GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows.
@@ -1263,7 +1263,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 ### Budget Management
 
-* [My Expenses](https://github.com/mtotschnig/MyExpenses) ⭐ 1,200 | 🐛 476 | 🌐 Kotlin | 📅 2026-10-23 - Featureful GPL licenced Android Expense Tracking App.
+* [My Expenses](https://github.com/mtotschnig/MyExpenses) ⭐ 1,201 | 🐛 476 | 🌐 Kotlin | 📅 2026-10-30 - Featureful GPL licenced Android Expense Tracking App.
 * [ProExpense](https://github.com/arduia/ProExpense/) ⭐ 104 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-28 - A simple free finance note to safely record daily expenses.
 * [Wallos](https://wallosapp.com) - Self-hosted tracker for subscriptions and recurring expenses, with reminders and spending statistics. Open source, GPL-3.0 licensed.
 
@@ -1276,8 +1276,8 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 ✅  **Instead use**
 
-* [Spliit](https://github.com/spliit-app/spliit#readme) ⭐ 3,031 | 🐛 231 | 🌐 TypeScript | 📅 2026-10-22 - Share Expenses with Friends & Family. No ads. No account. Open Source. Forever Free.
-* [SplitPro](https://github.com/oss-apps/split-pro#readme) ⭐ 1,480 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-20 - [Website](https://splitpro.app) - Split Expenses with your friends for free. An open source alternative to SplitWise.
+* [Spliit](https://github.com/spliit-app/spliit#readme) ⭐ 3,032 | 🐛 233 | 🌐 TypeScript | 📅 2026-10-22 - Share Expenses with Friends & Family. No ads. No account. Open Source. Forever Free.
+* [SplitPro](https://github.com/oss-apps/split-pro#readme) ⭐ 1,481 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-20 - [Website](https://splitpro.app) - Split Expenses with your friends for free. An open source alternative to SplitWise.
 * [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. Lacks unequal splitting.
   * [MoneyBuster](https://gitlab.com/eneiluj/moneybuster/) - Android client for Nextcloud Cospend and IHateMoney servers.
 * [Nextcloud Cospend](https://apps.nextcloud.com/apps/cospend) - A group/shared budget manager inspired by the great IHateMoney.
@@ -1289,8 +1289,8 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 ### Portfolio trackers
 
-* [Ghostfolio](https://github.com/ghostfolio/ghostfolio#readme) ⭐ 9,617 | 🐛 335 | 🌐 TypeScript | 📅 2026-10-30 - open source wealth management software built with web technology.
-* [Rotki](https://github.com/rotki/rotki) ⭐ 4,070 | 🐛 409 | 🌐 Python | 📅 2026-10-30 - An awesome portfolio tracking, analytics, accounting and tax reporting application that protects your privacy.
+* [Ghostfolio](https://github.com/ghostfolio/ghostfolio#readme) ⭐ 9,626 | 🐛 334 | 🌐 TypeScript | 📅 2026-10-31 - open source wealth management software built with web technology.
+* [Rotki](https://github.com/rotki/rotki) ⭐ 4,071 | 🐛 413 | 🌐 Python | 📅 2026-10-30 - An awesome portfolio tracking, analytics, accounting and tax reporting application that protects your privacy.
 * [PortfolioPerformance](https://www.portfolio-performance.info/en/) - An open source tool to calculate the overall performance of an investment portfolio-
 
 ## Photo Editing and Management
@@ -1304,13 +1304,13 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 #### Web
 
-* [miniPaint](https://github.com/viliusle/miniPaint) ⭐ 3,486 | 🐛 49 | 🌐 JavaScript | 📅 2026-04-20 - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
+* [miniPaint](https://github.com/viliusle/miniPaint) ⭐ 3,487 | 🐛 49 | 🌐 JavaScript | 📅 2026-04-20 - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
 
 #### Desktop
 
-* [Czkawka](https://github.com/qarmin/czkawka) ⭐ 34,644 | 🐛 356 | 🌐 Fluent | 📅 2026-09-16 - Multi functional app to find duplicates and similar images etc.
-* [RapidRAW](https://github.com/CyberTimon/RapidRAW) ⭐ 10,793 | 🐛 476 | 🌐 TypeScript | 📅 2026-10-30 - A beautiful, non-destructive and GPU-accelerated RAW image editor built with performance in mind. Lightweight (<20MB) cross-platform alternative to Adobe Lightroom. AGPL-3.0 licensed.
-* [Krita](https://github.com/KDE/krita) ⭐ 10,667 | 🐛 0 | 🌐 C++ | 📅 2026-10-30 - Krita is a free and open source digital painting application
+* [Czkawka](https://github.com/qarmin/czkawka) ⭐ 34,669 | 🐛 315 | 🌐 Fluent | 📅 2026-10-31 - Multi functional app to find duplicates and similar images etc.
+* [RapidRAW](https://github.com/CyberTimon/RapidRAW) ⭐ 10,855 | 🐛 476 | 🌐 TypeScript | 📅 2026-10-31 - A beautiful, non-destructive and GPU-accelerated RAW image editor built with performance in mind. Lightweight (<20MB) cross-platform alternative to Adobe Lightroom. AGPL-3.0 licensed.
+* [Krita](https://github.com/KDE/krita) ⭐ 10,671 | 🐛 0 | 🌐 C++ | 📅 2026-10-31 - Krita is a free and open source digital painting application
 * [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
 * [DigiKam](https://www.digikam.org/) - Awesome Professional Photo Management with the Power of Open Source.
 * [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
@@ -1338,9 +1338,9 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 ### Self-hosted
 
-* [Immich](https://github.com/immich-app/immich) ⭐ 117,685 | 🐛 682 | 🌐 TypeScript | 📅 2026-10-30 - Self-hosted photo and video backup solution directly from your mobile phone.
-* [LibrePhotos](https://github.com/LibrePhotos/librephotos) ⭐ 8,121 | 🐛 34 | 🌐 Python | 📅 2026-10-30 - Active [OwnPhotos](https://github.com/hooram/ownphotos) ⭐ 2,757 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2022-12-07 fork. Self hosted alternative to Google Photos.
-* [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) ⭐ 725 | 🐛 224 | 🌐 JavaScript | 📅 2026-10-30 plugin to help you organize and visualize your photos.
+* [Immich](https://github.com/immich-app/immich) ⭐ 117,790 | 🐛 674 | 🌐 TypeScript | 📅 2026-10-31 - Self-hosted photo and video backup solution directly from your mobile phone.
+* [LibrePhotos](https://github.com/LibrePhotos/librephotos) ⭐ 8,122 | 🐛 37 | 🌐 Python | 📅 2026-10-31 - Active [OwnPhotos](https://github.com/hooram/ownphotos) ⭐ 2,756 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2022-12-07 fork. Self hosted alternative to Google Photos.
+* [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) ⭐ 725 | 🐛 228 | 🌐 JavaScript | 📅 2026-10-31 plugin to help you organize and visualize your photos.
 * [Photoprism](https://photoprism.app) - Feature rich server-based application for browsing, organizing and sharing your personal photo collection. The most similar to Google Photos.
 * [Pigallery2](http://bpatrik.github.io/pigallery2/) - A self-hosted directory-first photo gallery website.
 * [Photoview](https://photoview.github.io/) - Photo gallery for self-hosted personal servers with Facial Recognition.
@@ -1356,7 +1356,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 ### Local
 
-* [Photok](https://github.com/leonlatsch/Photok) ⭐ 994 | 🐛 50 | 🌐 Kotlin | 📅 2026-10-30 - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
+* [Photok](https://github.com/leonlatsch/Photok) ⭐ 998 | 🐛 51 | 🌐 Kotlin | 📅 2026-10-30 - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
 * [DigiKam](https://www.digikam.org/) - Awesome Professional Photo Management with the Power of Open Source.
 * [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
@@ -1368,16 +1368,16 @@ This section is dedicated to some tools that may help users analyze the privacy 
 
 ### Desktop
 
-* [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) ⭐ 15,638 | 🐛 65 | 🌐 Python | 📅 2026-10-29 - Forensic tool from Amnesty International that checks Android and iOS devices for traces of spyware such as Pegasus.
-* [OpenSnitch](https://github.com/evilsocket/opensnitch) ⭐ 14,227 | 🐛 219 | 🌐 Python | 📅 2026-07-26 - Interactive application firewall for GNU/Linux that helps users detect, monitor, and block unwanted outbound connections.
+* [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) ⭐ 15,653 | 🐛 65 | 🌐 Python | 📅 2026-10-29 - Forensic tool from Amnesty International that checks Android and iOS devices for traces of spyware such as Pegasus.
+* [OpenSnitch](https://github.com/evilsocket/opensnitch) ⭐ 14,228 | 🐛 219 | 🌐 Python | 📅 2026-07-26 - Interactive application firewall for GNU/Linux that helps users detect, monitor, and block unwanted outbound connections.
 * [Whoami Project](https://github.com/owerdogan/whoami-project) ⭐ 2,321 | 🐛 31 | 🌐 Shell | 📅 2025-10-13 [💀](#icons) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.
-* [MAT2](https://github.com/jvoisin/mat2) ⭐ 387 | 🐛 4 | 🌐 Python | 📅 2026-10-08 - Removes metadata from images, documents, audio and other files. Command line tool with file manager integrations.
+* [MAT2](https://github.com/jvoisin/mat2) ⭐ 387 | 🐛 3 | 🌐 Python | 📅 2026-10-08 - Removes metadata from images, documents, audio and other files. Command line tool with file manager integrations.
 * [BusKill](https://www.buskill.in/) - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.
 * [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Simple desktop app to view and remove file metadata, built on MAT2.
 
 ### Android
 
-* [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) ⭐ 5,814 | 🐛 657 | 🌐 Kotlin | 📅 2026-10-26 - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+* [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) ⭐ 5,821 | 🐛 657 | 🌐 Kotlin | 📅 2026-10-26 - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
 * [εxodus](https://reports.exodus-privacy.eu.org/en/) - The privacy audit platform for Android applications. Find how many trackers your apps have.
   * [ClassyShark3xodus](https://f-droid.org/en/packages/com.oF2pks.classyshark3xodus/) - Checks apk(s) for known trackers (provided by Exodus) +other warnings and specs.
 * [Plexus](https://plexus.techlore.tech/) - Remove the fear of Android app compatibility on de-Googled devices. Find if an app will work on a De-Googled device.
@@ -1431,10 +1431,10 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ✅  **Instead use**
 
-* [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,765 | 🐛 372 | 🌐 TypeScript | 📅 2026-10-29 - Open source desktop RSS reader for Windows, macOS and Linux.
-* [🤖](#icons) [Read You](https://github.com/ReadYouApp/ReadYou) ⭐ 7,625 | 🐛 490 | 🌐 Kotlin | 📅 2026-08-11 - Open source Material You RSS reader for Android, local or synced with self-hosted services.
-* [🤖](#icons) [Feeder](https://github.com/spacecowboy/Feeder) ⭐ 3,098 | 🐛 235 | 🌐 Kotlin | 📅 2026-10-29 - Open source RSS reader for Android that fetches feeds directly on your device, with no account.
-* [🤖](#icons) [Capy Reader](https://github.com/jocmp/capyreader) ⭐ 1,435 | 🐛 16 | 🌐 Kotlin | 📅 2026-10-29 - Open source RSS reader for Android, local or synced with Miniflux and FreshRSS.
+* [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐ 9,770 | 🐛 372 | 🌐 TypeScript | 📅 2026-10-29 - Open source desktop RSS reader for Windows, macOS and Linux.
+* [🤖](#icons) [Read You](https://github.com/ReadYouApp/ReadYou) ⭐ 7,631 | 🐛 490 | 🌐 Kotlin | 📅 2026-08-11 - Open source Material You RSS reader for Android, local or synced with self-hosted services.
+* [🤖](#icons) [Feeder](https://github.com/spacecowboy/Feeder) ⭐ 3,100 | 🐛 236 | 🌐 Kotlin | 📅 2026-10-30 - Open source RSS reader for Android that fetches feeds directly on your device, with no account.
+* [🤖](#icons) [Capy Reader](https://github.com/jocmp/capyreader) ⭐ 1,439 | 🐛 16 | 🌐 Kotlin | 📅 2026-10-31 - Open source RSS reader for Android, local or synced with Miniflux and FreshRSS.
 * [FreshRSS](https://freshrss.org/) - Self-hosted feed aggregator with a web interface, multi-user support and an API for mobile apps.
 * [Miniflux](https://miniflux.app/) - Minimalist self-hosted feed reader with no tracking, written in Go.
 * [NetNewsWire](https://netnewswire.com/) - Open source RSS reader for macOS and iOS that works locally or syncs with self-hosted services.
@@ -1455,7 +1455,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ✅  **Instead use**
 
-* [SearxNG](https://github.com/searxng/searxng) ⭐ 39,017 | 🐛 213 | 🌐 Python | 📅 2026-10-30 - Free internet metasearch engine which aggregates results from various search services and databases.
+* [SearxNG](https://github.com/searxng/searxng) ⭐ 39,050 | 🐛 212 | 🌐 Python | 📅 2026-10-30 - Free internet metasearch engine which aggregates results from various search services and databases.
 * [librengine](https://github.com/liameno/librengine) ⭐ 77 | 🐛 0 | 🌐 C++ | 📅 2023-06-19 [💀](#icons) - Privacy Web Search Engine
 * [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
 * [Brave Search](https://search.brave.com) - A privacy respecting search engine with [its own independent index](https://brave.com/search-independence/).
@@ -1483,7 +1483,7 @@ These services build a profile from everything you read. A local or self-hosted 
 >
 > You can use these browser extensions and apps to automatically redirect any links to privacy-respecting alternative frontends:
 >
-> * [LibRedirect](https://github.com/libredirect/browser_extension#get) ⭐ 4,099 | 🐛 60 | 🌐 JSON | 📅 2026-10-30 - A web extension that redirects YouTube, Twitter... requests to alternative privacy friendly frontends and backends.
+> * [LibRedirect](https://github.com/libredirect/browser_extension#get) ⭐ 4,102 | 🐛 61 | 🌐 JSON | 📅 2026-10-31 - A web extension that redirects YouTube, Twitter... requests to alternative privacy friendly frontends and backends.
 > * [UntrackMe](https://www.f-droid.org/en/packages/app.fedilab.nitterizeme/) - Transform Youtube, Twitter & other links to their free and open source alternatives.
 
 ### Blogging platforms (Medium)
@@ -1520,7 +1520,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ✅ **Quora alternative frontends (web-based):**
 
-* [Quetre](https://github.com/zyachel/quetre) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
+* [Quetre](https://github.com/zyachel/quetre) ⭐ 501 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
 ### YouTube
 
@@ -1536,15 +1536,15 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ✅ **YouTube alternative frontends (web-based):**
 
-* [Invidious](https://github.com/iv-org/invidious) ⭐ 25,808 | 🐛 494 | 🌐 Crystal | 📅 2026-10-26 - Alternative and privacy respecting YouTube frontend.
-* [Piped](https://github.com/TeamPiped/Piped) ⭐ 10,297 | 🐛 323 | 🌐 Vue | 📅 2026-10-30 - An alternative privacy-friendly YouTube frontend which is efficient by design.
-* [ViewTube](https://github.com/ViewTube/viewtube) ⭐ 1,476 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-30 - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js
-* [Youtube-Local](https://github.com/user234683/youtube-local) ⭐ 779 | 🐛 75 | 🌐 JavaScript | 📅 2026-10-30 - browser-based client for watching Youtube anonymously and with greater page performance.
+* [Invidious](https://github.com/iv-org/invidious) ⭐ 25,814 | 🐛 496 | 🌐 Crystal | 📅 2026-10-30 - Alternative and privacy respecting YouTube frontend.
+* [Piped](https://github.com/TeamPiped/Piped) ⭐ 10,299 | 🐛 323 | 🌐 Vue | 📅 2026-10-30 - An alternative privacy-friendly YouTube frontend which is efficient by design.
+* [ViewTube](https://github.com/ViewTube/viewtube) ⭐ 1,476 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-31 - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js
+* [Youtube-Local](https://github.com/user234683/youtube-local) ⭐ 779 | 🐛 76 | 🌐 JavaScript | 📅 2026-10-31 - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ✅ **YouTube alternative clients (apps):**
 
-* [FreeTube](https://github.com/FreeTubeApp/FreeTube) ⭐ 22,263 | 🐛 292 | 🌐 Vue | 📅 2026-10-30 - FreeTube is an open source desktop YouTube player built with privacy in mind. (Uses Local RSS API or Invidious for backend).
-* [🤖](#icons) [LibreTube](https://github.com/Libre-tube/LibreTube) ⭐ 12,920 | 🐛 178 | 🌐 Kotlin | 📅 2026-10-30 - An alternative frontend for YouTube, for Android using Piped.
+* [FreeTube](https://github.com/FreeTubeApp/FreeTube) ⭐ 22,274 | 🐛 285 | 🌐 Vue | 📅 2026-10-31 - FreeTube is an open source desktop YouTube player built with privacy in mind. (Uses Local RSS API or Invidious for backend).
+* [🤖](#icons) [LibreTube](https://github.com/Libre-tube/LibreTube) ⭐ 12,925 | 🐛 178 | 🌐 Kotlin | 📅 2026-10-30 - An alternative frontend for YouTube, for Android using Piped.
 * [Yattee](https://github.com/yattee/yattee) ⭐ 3,777 | 🐛 235 | 🌐 Swift | 📅 2026-10-28 - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
 * [🤖](#icons) [SkyTube](https://github.com/SkyTubeTeam/SkyTube) ⭐ 2,803 | 🐛 275 | 🌐 Java | 📅 2026-10-29 - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
 * [🤖](#icons) [Clipious](https://github.com/lamarios/clipious) ⚠️ Archived [💀](#icons) Invidious client for android
@@ -1558,7 +1558,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ✅ **TikTok alternative frontends (web-based):**
 
-* [ProxiTok](https://github.com/pablouser1/ProxiTok) ⭐ 2,151 | 🐛 51 | 🌐 PHP | 📅 2025-05-31 - Open source alternative frontend for TikTok
+* [ProxiTok](https://github.com/pablouser1/ProxiTok) ⭐ 2,152 | 🐛 51 | 🌐 PHP | 📅 2025-05-31 - Open source alternative frontend for TikTok
 
 ### Twitter
 
@@ -1568,7 +1568,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 #### Self-hosted
 
-* [Memos](https://github.com/usememos/memos) ⭐ 64,186 | 🐛 59 | 🌐 Go | 📅 2026-10-29 - An open-source, self-hosted memo hub with knowledge management and socialization.
+* [Memos](https://github.com/usememos/memos) ⭐ 64,199 | 🐛 60 | 🌐 Go | 📅 2026-10-31 - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 #### Decentralized
 
@@ -1585,7 +1585,7 @@ These services build a profile from everything you read. A local or self-hosted 
 #### Alternative Frontends
 
 * [Nitter](https://github.com/zedeus/nitter/wiki/Instances) ⚠️ Archived [💀](#icons) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
-* [Squawker](https://github.com/j-fbriere/squawker) ⭐ 1,481 | 🐛 220 | 🌐 Dart | 📅 2026-10-25 - Open source Twitter client for Android, the maintained fork of Fritter.
+* [Squawker](https://github.com/j-fbriere/squawker) ⭐ 1,482 | 🐛 221 | 🌐 Dart | 📅 2026-10-25 - Open source Twitter client for Android, the maintained fork of Fritter.
 * [Feetter](https://codeberg.org/pluja/Feetter) [💀](#icons) - Create, sync and manage Nitter feeds without registration from any device.
 
 ### Reddit
@@ -1602,7 +1602,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ✅ **Privacy respecting Reddit clients:**
 
-* [Redlib](https://github.com/redlib-org/redlib) ⭐ 3,957 | 🐛 235 | 🌐 Rust | 📅 2026-10-22 - An alternative private front-end to Reddit, with its origins in Libreddit.
+* [Redlib](https://github.com/redlib-org/redlib) ⭐ 3,965 | 🐛 234 | 🌐 Rust | 📅 2026-10-22 - An alternative private front-end to Reddit, with its origins in Libreddit.
 
 ### Streaming Platforms (Twitch)
 
@@ -1612,7 +1612,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ✅ **Alternatives:**
 
-* [Owncast](https://github.com/owncast/owncast) ⭐ 11,633 | 🐛 172 | 🌐 Go | 📅 2026-10-26 - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+* [Owncast](https://github.com/owncast/owncast) ⭐ 11,638 | 🐛 171 | 🌐 Go | 📅 2026-10-26 - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
 
 ✅ **Privacy respecting Twitch clients:**
 
@@ -1713,8 +1713,8 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ## Uncategorized
 
-* [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 15,385 | 🐛 302 | 🌐 Go | 📅 2026-10-30 - An open-source, modernized and collaborative fail2ban.
-* [Hetty](https://github.com/dstotijn/hetty) ⭐ 12,523 | 🐛 52 | 🌐 Go | 📅 2026-07-21 - Hetty is an HTTP toolkit for security research. It aims to be an open-source alternative to Burp Suite Pro.
+* [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 15,401 | 🐛 303 | 🌐 Go | 📅 2026-10-30 - An open-source, modernized and collaborative fail2ban.
+* [Hetty](https://github.com/dstotijn/hetty) ⭐ 12,528 | 🐛 52 | 🌐 Go | 📅 2026-07-21 - Hetty is an HTTP toolkit for security research. It aims to be an open-source alternative to Burp Suite Pro.
 * [Visited](https://github.com/didvc/visited) ⭐ 100 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-25 - Locally collect browsing history over browsers.
 * [Skymap](https://skymaponline.net/) - Open online planetarium program.
 
@@ -1722,7 +1722,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ## Utilities
 
-* [Deskreen](https://github.com/pavlobu/deskreen) ⭐ 21,690 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-08 - Turn any device into a secondary screen for your computer.
+* [Deskreen](https://github.com/pavlobu/deskreen) ⭐ 21,699 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-08 - Turn any device into a secondary screen for your computer.
 
 [Back to top 🔝](#contents)
 
@@ -1756,7 +1756,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ✅  **Instead use**
 
-* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,167 | 🐛 200 | 🌐 TypeScript | 📅 2026-10-30 - More secure, more flexible, and completely free video conferencing. If you use the official instance, you will need to login. Self-hosting is recommended.
+* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,171 | 🐛 194 | 🌐 TypeScript | 📅 2026-10-30 - More secure, more flexible, and completely free video conferencing. If you use the official instance, you will need to login. Self-hosting is recommended.
 * [PeerCalls](https://github.com/peer-calls/peer-calls) ⭐ 1,900 | 🐛 51 | 🌐 Go | 📅 2025-10-28 - Group peer to peer video calls for everyone written in Go and TypeScript.
 * [Briefing](https://github.com/holtwick/briefing/) ⭐ 1,636 | 🐛 21 | 🌐 TypeScript | 📅 2025-12-03 - Secure direct video group chat. Only open technologies (such as WebRTC) are used, which work with all modern browsers.
 * [Jam](https://github.com/jam-systems/jam) ⭐ 1,316 | 🐛 1 | 🌐 JavaScript | 📅 2023-09-15 [💀](#icons) - Jam is your own open source Clubhouse for mini conferences, friends, communities.
@@ -1773,10 +1773,10 @@ These services build a profile from everything you read. A local or self-hosted 
 > Your IP and messages will still be shared and belong to Discord and they are not encrypted.\
 > Also using any of these modifications/clients [violates](https://x.com/discord/status/1006178587731550208) the [Discord ToS](https://discord.com/terms) so, we are not responsible of any suspension or termination of your account **but**, this should [not happen **yet**](https://github.com/GooseMod/GooseMod/wiki/FAQ#is-goosemod-against-discord-tos) ⚠️ Archived.
 
-* [Vencord](https://github.com/Vendicated/Vencord) ⭐ 14,363 | 🐛 298 | 🌐 TypeScript | 📅 2026-10-30 - A Discord client mod that does things differently.
-* [🤖](#icons) [Aliucord](https://github.com/Aliucord/Aliucord) ⭐ 4,914 | 🐛 105 | 🌐 Kotlin | 📅 2026-10-14 - A modification for the Android Discord app that fully [disables the Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java) ⭐ 4,914 | 🐛 105 | 🌐 Kotlin | 📅 2026-10-14.
+* [Vencord](https://github.com/Vendicated/Vencord) ⭐ 14,377 | 🐛 298 | 🌐 TypeScript | 📅 2026-10-31 - A Discord client mod that does things differently.
+* [🤖](#icons) [Aliucord](https://github.com/Aliucord/Aliucord) ⭐ 4,915 | 🐛 104 | 🌐 Kotlin | 📅 2026-10-14 - A modification for the Android Discord app that fully [disables the Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java) ⭐ 4,915 | 🐛 104 | 🌐 Kotlin | 📅 2026-10-14.
 * [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Tracking](https://github.com/GooseMod/OpenAsar#readme) ⭐ 3,029 | 🐛 68 | 🌐 JavaScript | 📅 2026-07-24 option that disables Discord's crash and error reporting.
-* [WebCord](https://github.com/SpacingBat3/WebCord) ⭐ 2,456 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-23 - A Discord and Fosscord API-less client made with the Electron.
+* [WebCord](https://github.com/SpacingBat3/WebCord) ⭐ 2,457 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-23 - A Discord and Fosscord API-less client made with the Electron.
 * [Kernel](https://github.com/kernel-mod/electron) ⭐ 100 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-13 [💀](#icons) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities](https://github.com/slow/discord-utilities) ⚠️ Archived package to block trackers.
 * [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
 * [Replugged](https://replugged.dev/) - A continuation of the deprecated client mod [Powercord](https://powercord.dev).
@@ -1796,8 +1796,8 @@ Such programs come filled with trackers and telemetry. You can get a full list o
 
 ✅  **Instead use**
 
-* [OpenCut](https://github.com/OpenCut-app/OpenCut) ⭐ 96,831 | 🐛 387 | 🌐 TypeScript | 📅 2026-09-24 - \[beta] A free, open-source video editor for web, desktop, and mobile.
-* [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 45,469 | 🐛 165 | 🌐 TypeScript | 📅 2026-10-29 - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
+* [OpenCut](https://github.com/OpenCut-app/OpenCut) ⭐ 96,923 | 🐛 386 | 🌐 TypeScript | 📅 2026-09-24 - \[beta] A free, open-source video editor for web, desktop, and mobile.
+* [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 45,512 | 🐛 168 | 🌐 TypeScript | 📅 2026-10-30 - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
 * [kdenlive](https://kdenlive.org/) - Open source video editor. Free and easy to use for any purpose, forever.
 * [Olive Video Editor](https://olivevideoeditor.org/) - Free open-source advanced non-linear video editor currently in Alpha state.
 * [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source and simple cross-platform video editor.
@@ -1838,7 +1838,7 @@ Here are some open source and truly private (no personal data and/or credit card
 
 #### Android / iOS
 
-* [Cromite](https://github.com/uazo/cromite) ⭐ 8,451 | 🐛 592 | 🌐 C++ | 📅 2026-10-30 - Cromite is a Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy.
+* [Cromite](https://github.com/uazo/cromite) ⭐ 8,451 | 🐛 593 | 🌐 C++ | 📅 2026-10-31 - Cromite is a Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy.
 * [Brave](https://brave.com/) - Android/iOS. Brave offers a pretty good out-of-the-box set of privacy and tracker protections.
 * [Firefox](https://www.firefox.com/en-US/mobile/) - Android/iOS
   * [🤖](#icons) [IronFox](https://gitlab.com/ironfox-oss/IronFox) - Mull browser fork. A hardened fork of Firefox for Android, with proprietary blobs removed.
@@ -1848,7 +1848,7 @@ Here are some open source and truly private (no personal data and/or credit card
 
 #### Desktop
 
-* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 28,141 | 🐛 183 | 🌐 Python | 📅 2026-10-30 - A lightweight approach to removing Google web service dependency. Ungoogled-chromium is Google Chromium, sans dependency on Google web services.
+* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 28,150 | 🐛 183 | 🌐 Python | 📅 2026-10-30 - A lightweight approach to removing Google web service dependency. Ungoogled-chromium is Google Chromium, sans dependency on Google web services.
 * [Brave](https://brave.com/) - Brave offers a pretty good out-of-the-box set of privacy and tracker protections.
 * [Firefox](https://www.firefox.com/en-US/) - Open Source, independent browser. It needs some [hardening and tweaking](https://anonymousplanet.net/guide/#hardening-firefox) to achieve great privacy.
   * [LibreWolf](https://librewolf.net/) - Privacy-focused Firefox fork.
@@ -1868,16 +1868,16 @@ Here are some open source and truly private (no personal data and/or credit card
 
 Please read about what the addon does before installing. If you don't understand what you are doing you could end up damaging your privacy. Also, too many addons can slow down your browsing experience.
 
-* [LibRedirect](https://github.com/libredirect/browser_extension) ⭐ 4,099 | 🐛 60 | 🌐 JSON | 📅 2026-10-30 - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+* [LibRedirect](https://github.com/libredirect/browser_extension) ⭐ 4,102 | 🐛 61 | 🌐 JSON | 📅 2026-10-31 - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
 * [uBlock Origin](https://ublockorigin.com/) - Free, open-source ad content blocker. Easy on CPU and memory.
-  * [Read the extension docs](https://github.com/gorhill/uBlock/wiki/Blocking-mode) ⭐ 68,928 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-29 and pick one of the recommended modes to increase your privacy.
+  * [Read the extension docs](https://github.com/gorhill/uBlock/wiki/Blocking-mode) ⭐ 68,961 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-30 and pick one of the recommended modes to increase your privacy.
   * Go to settings > filters list > annoyances, turn on easylist-cookies. This will avoid you the annoying Cookie popups.
 * [Privacy Badger](https://privacybadger.org/) - Browser extension from the EFF that learns to block trackers as you browse. Open source, GPL-3.0 licensed.
 * [ClearURLs](https://clearurls.xyz/) - Browser extension that automatically strips tracking parameters from links and URLs. Open source, LGPL-3.0 licensed.
 
 #### Useful Tools
 
-* [Single File](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,780 | 🐛 97 | 🌐 JavaScript | 📅 2026-10-29 - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
+* [Single File](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,786 | 🐛 98 | 🌐 JavaScript | 📅 2026-10-31 - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
 
 ### Browser Sync
 
@@ -1925,4 +1925,4 @@ Finally, there are services that may offer all three: anonymity, privacy, and se
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
